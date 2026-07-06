@@ -308,6 +308,17 @@ def build_events(games: list, platform_ids: dict, start_ts: int, end_ts: int, hy
             skipped_unimportant += 1
             continue
 
+        developers, publishers = set(), set()
+        for ic in game.get("involved_companies", []) or []:
+            company = ic.get("company") or {}
+            name = company.get("name")
+            if not name:
+                continue
+            if ic.get("developer"):
+                developers.add(name)
+            if ic.get("publisher"):
+                publishers.add(name)
+
         for rd in game.get("release_dates", []):
             plat_id = rd.get("platform")
             date = rd.get("date")
@@ -323,6 +334,8 @@ def build_events(games: list, platform_ids: dict, start_ts: int, end_ts: int, hy
                     "platforms": set(),
                     "summary": game.get("summary", ""),
                     "url": game.get("url", ""),
+                    "developers": developers,
+                    "publishers": publishers,
                 }
             events[key]["platforms"].add(id_to_name[plat_id])
 
@@ -372,6 +385,17 @@ def build_ics(events: list) -> str:
 
         summary = f"{ev['name']} ({platforms_str})"
         description_parts = []
+
+        devs = sorted(ev.get("developers", set()))
+        pubs = sorted(ev.get("publishers", set()))
+        if devs and devs == pubs:
+            description_parts.append(f"Developer/Publisher: {', '.join(devs)}")
+        else:
+            if devs:
+                description_parts.append(f"Developer: {', '.join(devs)}")
+            if pubs:
+                description_parts.append(f"Publisher: {', '.join(pubs)}")
+
         if ev["summary"]:
             description_parts.append(ev["summary"])
         if ev["url"]:
