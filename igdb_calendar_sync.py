@@ -23,6 +23,7 @@ IGDB API docs: https://api-docs.igdb.com/
 
 import os
 import sys
+import re
 import argparse
 import time
 import hashlib
@@ -43,6 +44,141 @@ TARGET_PLATFORM_NAMES = [
     "Nintendo Switch",
     "Nintendo Switch 2",
 ]
+
+# --- Importance filtering ---------------------------------------------
+#
+# A release is kept if EITHER:
+#   1. Its IGDB "hypes" count (pre-release follows) is >= HYPE_THRESHOLD, or
+#   2. One of its developers/publishers matches MAJOR_COMPANIES below.
+#
+# This is a hybrid filter: the hype threshold automatically catches
+# breakout indie hits (a future Palworld/Balatro would clear the bar on
+# its own), while the allowlist guarantees you never miss a major
+# publisher's release even if IGDB's community hype is modest.
+#
+# Edit MAJOR_COMPANIES freely -- entries are matched as whole words,
+# case-insensitively, against IGDB company names (so "Rare" matches
+# "Rare Ltd" but won't false-positive on "Prepare Studios").
+HYPE_THRESHOLD_DEFAULT = 15
+
+MAJOR_COMPANIES = [
+    # --- First party: platform holders + their internal studios ---
+    "Nintendo",
+    "Sony Interactive Entertainment",
+    "PlayStation Studios",
+    "Santa Monica Studio",
+    "Naughty Dog",
+    "Insomniac Games",
+    "Guerrilla",
+    "Sucker Punch",
+    "Bend Studio",
+    "Firesprite",
+    "Housemarque",
+    "Bluepoint Games",
+    "Media Molecule",
+    "Team Asobi",
+    "Bungie",
+    "Valve",
+    "Xbox Game Studios",
+    "Halo Studios",
+    "343 Industries",
+    "Bethesda Game Studios",
+    "Bethesda Softworks",
+    "id Software",
+    "Obsidian Entertainment",
+    "inXile Entertainment",
+    "Ninja Theory",
+    "The Coalition",
+    "Turn 10 Studios",
+    "Playground Games",
+    "Rare",
+    "Mojang Studios",
+    "ZeniMax",
+    "Arkane Studios",
+    "MachineGames",
+    "Compulsion Games",
+    "Double Fine",
+    "Undead Labs",
+    "World's Edge",
+    "Tango Gameworks",
+
+    # --- Major third party (generous on purpose) ---
+    "Electronic Arts",
+    "EA Sports",
+    "Ubisoft",
+    "Activision",
+    "Blizzard Entertainment",
+    "King",
+    "Take-Two",
+    "Rockstar Games",
+    "2K",
+    "Bandai Namco",
+    "Square Enix",
+    "Capcom",
+    "Sega",
+    "Atlus",
+    "Konami",
+    "Warner Bros. Games",
+    "Warner Bros Games",
+    "NetEase",
+    "Tencent",
+    "miHoYo",
+    "HoYoverse",
+    "Epic Games",
+    "CD Projekt",
+    "FromSoftware",
+    "Arc System Works",
+    "Riot Games",
+    "Amazon Games",
+    "NCSoft",
+    "Krafton",
+    "Koei Tecmo",
+    "Level-5",
+    "Focus Entertainment",
+    "Paradox Interactive",
+    "THQ Nordic",
+    "Embracer",
+    "Plaion",
+    "505 Games",
+    "Marvelous",
+    "Spike Chunsoft",
+    "Nexon",
+    "Netmarble",
+    "Supercell",
+    "Garena",
+    "PlatinumGames",
+    "Respawn Entertainment",
+    "Techland",
+    "Kadokawa",
+
+    # --- Notable / highly-followed indie publishers (curated, not exhaustive) ---
+    "Devolver Digital",
+    "Annapurna Interactive",
+    "Team17",
+    "Coffee Stain",
+    "Raw Fury",
+    "11 bit studios",
+    "Thunderful",
+    "Kepler Interactive",
+    "Hooded Horse",
+    "Chucklefish",
+    "Private Division",
+    "tinyBuild",
+    "Modus Games",
+    "Fellow Traveller",
+    "Whitethorn Games",
+    "Skybound Games",
+    "Panic Inc",
+    "Yacht Club Games",
+    "Team Cherry",
+    "ConcernedApe",
+    "Curve Games",
+]
+
+# IGDB game "category" values that are structural noise regardless of
+# publisher/hype -- mods, packs, updates, and forks aren't really new
+# releases in the sense you care about tracking.
+EXCLUDED_CATEGORIES = {5, 12, 13, 14}  # mod, fork, pack, update
 
 
 def get_access_token(client_id: str, client_secret: str) -> str:
@@ -114,7 +250,9 @@ def fetch_upcoming_games(platform_ids: list, start_ts: int, end_ts: int, client_
     offset = 0
     while True:
         query = (
-            "fields name, summary, url, "
+            "fields name, summary, url, hypes, category, "
+            "involved_companies.company.name, involved_companies.publisher, "
+            "involved_companies.developer, "
             "release_dates.date, release_dates.platform, release_dates.human; "
             f"where release_dates.platform = ({platform_ids_str}) "
             f"& release_dates.date >= {start_ts} & release_dates.date <= {end_ts}; "
@@ -130,13 +268,46 @@ def fetch_upcoming_games(platform_ids: list, start_ts: int, end_ts: int, client_
     return games
 
 
-def build_events(games: list, platform_ids: dict, start_ts: int, end_ts: int) -> list:
+def _company_matches(major: str, name: str) -> bool:
+    """Whole-word, case-insensitive match so short entries like 'Rare' or
+    'King' match 'Rare Ltd' / 'King' but not 'Prepare Studios' or
+    'Kingfisher Games'."""
+    pattern = r"\b" + re.escape(major.lower()) + r"\b"
+    return re.search(pattern, name.lower()) is not None
+
+
+def is_important(game: dict, hype_threshold: int) -> bool:
+    """A game passes if its IGDB hype count clears the threshold, or if
+    any involved company matches the MAJOR_COMPANIES allowlist."""
+    hypes = game.get("hypes") or 0
+    if hypes >= hype_threshold:
+        return True
+
+    for ic in game.get("involved_companies", []) or []:
+        company = ic.get("company") or {}
+        name = company.get("name", "")
+        if any(_company_matches(major, name) for major in MAJOR_COMPANIES):
+            return True
+
+    return False
+
+
+def build_events(games: list, platform_ids: dict, start_ts: int, end_ts: int, hype_threshold: int) -> list:
     """One event per (game, date), combining all matching target platforms
-    that release that game on that day into a single event."""
+    that release this game on that day into a single event. Games that
+    don't clear the importance filter (see is_important) are skipped."""
     id_to_name = {v: k for k, v in platform_ids.items()}
     events = {}
+    skipped_noise, skipped_unimportant = 0, 0
 
     for game in games:
+        if game.get("category") in EXCLUDED_CATEGORIES:
+            skipped_noise += 1
+            continue
+        if not is_important(game, hype_threshold):
+            skipped_unimportant += 1
+            continue
+
         for rd in game.get("release_dates", []):
             plat_id = rd.get("platform")
             date = rd.get("date")
@@ -155,6 +326,10 @@ def build_events(games: list, platform_ids: dict, start_ts: int, end_ts: int) ->
                 }
             events[key]["platforms"].add(id_to_name[plat_id])
 
+    print(
+        f"Filtered out {skipped_noise} structural-noise entries and "
+        f"{skipped_unimportant} below the importance bar."
+    )
     return sorted(events.values(), key=lambda e: e["date"])
 
 
@@ -221,6 +396,17 @@ def main():
     parser.add_argument("--output", default="releases.ics", help="Output .ics file path")
     parser.add_argument("--days-back", type=int, default=0, help="Include releases from N days in the past")
     parser.add_argument("--days-ahead", type=int, default=400, help="Include releases up to N days in the future")
+    parser.add_argument(
+        "--hype-threshold",
+        type=int,
+        default=HYPE_THRESHOLD_DEFAULT,
+        help="Minimum IGDB hype count to include a game (ignored for MAJOR_COMPANIES matches)",
+    )
+    parser.add_argument(
+        "--no-filter",
+        action="store_true",
+        help="Disable importance filtering entirely (include every release, like the original unfiltered version)",
+    )
     args = parser.parse_args()
 
     client_id = os.environ.get("IGDB_CLIENT_ID")
@@ -245,7 +431,15 @@ def main():
     games = fetch_upcoming_games(list(platform_ids.values()), start_ts, end_ts, client_id, token)
     print(f"Fetched {len(games)} candidate games from IGDB.")
 
-    events = build_events(games, platform_ids, start_ts, end_ts)
+    hype_threshold = 10**9 if args.no_filter else args.hype_threshold
+    if args.no_filter:
+        # Effectively disables the hype gate; category cleanup still runs.
+        # Force every game through the MAJOR_COMPANIES-or-hype check by
+        # treating everything as if it matched a major company instead.
+        for g in games:
+            g["hypes"] = 10**9
+
+    events = build_events(games, platform_ids, start_ts, end_ts, hype_threshold)
     print(f"Built {len(events)} calendar events.")
 
     ics_content = build_ics(events)
