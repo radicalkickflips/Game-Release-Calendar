@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Upcoming Game Releases
 BEGIN:VEVENT
 UID:40798f63530a0b12c5c7d66de748eca4077c3b67@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260831
 SUMMARY:Breathedge 2 (PC (Microsoft Windows))
 DESCRIPTION:Developer: RedRuins Softworks\n\nPublisher: HypeTrain Digital\n
@@ -16,7 +16,7 @@ DESCRIPTION:Developer: RedRuins Softworks\n\nPublisher: HypeTrain Digital\n
 END:VEVENT
 BEGIN:VEVENT
 UID:12c42e43163be37ac05012d63002ff1920a239d1@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260831
 SUMMARY:Serious Sam: Shatterverse (PC (Microsoft Windows)\, PlayStation 5\,
   Xbox Series X|S)
@@ -28,7 +28,7 @@ DESCRIPTION:Developer: Behaviour Interactive\n\nPublisher: Devolver Digital
 END:VEVENT
 BEGIN:VEVENT
 UID:a19835102bc14748f638381cbd0078ec9c14b726@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260901
 SUMMARY:Crimson Moon (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series 
  X|S)
@@ -38,7 +38,7 @@ DESCRIPTION:Developer/Publisher: ProbablyMonsters\n\nA gothic action-advent
 END:VEVENT
 BEGIN:VEVENT
 UID:ecb05bd1f12729b65b598fd175e5bafde83f8e00@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260902
 SUMMARY:Moonlighter 2: The Endless Vault (Nintendo Switch 2\, PC (Microsoft
   Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -51,7 +51,7 @@ DESCRIPTION:Developer: Digital Sun Games\n\nPublisher: 11 bit studios\n\nLi
 END:VEVENT
 BEGIN:VEVENT
 UID:54e0ba50c5c2907ad97755d9f93edcabce46d9c9@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Wo Long: Fallen Dynasty (Nintendo Switch 2)
 DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo Games\n\nWo Long
@@ -64,7 +64,7 @@ DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo Games\n\nWo Long
 END:VEVENT
 BEGIN:VEVENT
 UID:20ec09f298605251f480fb919f494859383abcc4@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Wo Long: Fallen Dynasty - Battle of Zhongyuan (Nintendo Switch 2)
 DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo Games\n\nThe fir
@@ -75,7 +75,7 @@ DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo Games\n\nThe fir
 END:VEVENT
 BEGIN:VEVENT
 UID:83c6bdf755909c521e91c322cd48c6ac2129a303@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Wo Long: Fallen Dynasty - Conqueror of Jiangdong (Nintendo Switch 2
  )
@@ -89,7 +89,7 @@ DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo Games\n\nConquer
 END:VEVENT
 BEGIN:VEVENT
 UID:e3e4adf2dd3cb17b3d9dba2ca5a46f1a8c433bf5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Wo Long: Fallen Dynasty - Upheaval in Jingxiang (Nintendo Switch 2)
 DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo Games\n\nThe thi
@@ -100,7 +100,7 @@ DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo Games\n\nThe thi
 END:VEVENT
 BEGIN:VEVENT
 UID:d38fae67add55b5c5a01160ebd0ef9a48f5061a4@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:The Blood of Dawnwalker (PC (Microsoft Windows)\, PlayStation 5\, X
  box Series X|S)
@@ -113,7 +113,7 @@ DESCRIPTION:Developer: Rebel Wolves\n\nPublisher: Bandai Namco Entertainmen
 END:VEVENT
 BEGIN:VEVENT
 UID:f2418d6217f29fb92a1fb78ca42331813bdcea4d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Wo Long: Fallen Dynasty - Complete Edition (Nintendo Switch 2)
 DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo\n\nWo Long: Fall
@@ -128,7 +128,7 @@ DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo\n\nWo Long: Fall
 END:VEVENT
 BEGIN:VEVENT
 UID:6338b5c69253b644d0b3271155d08340b6b104a8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:SpeedRunners 2: King of Speed (Nintendo Switch\, PC (Microsoft Wind
  ows)\, PlayStation 5\, Xbox Series X|S)
@@ -141,7 +141,7 @@ DESCRIPTION:Developer: Fair Play Labs\n\nPublisher: tinyBuild\n\nThe ultima
 END:VEVENT
 BEGIN:VEVENT
 UID:23013238d1e5484d40dcbde4a7eda338b2251bda@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:My Hero Academia: All's Justice (Nintendo Switch 2)
 DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
@@ -152,7 +152,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:cdbee3a2e6dc7e4be49ca77b1677640d1bc17dcd@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Avatar Legends: The Fighting Game (Xbox Series X|S)
 DESCRIPTION:Developer: Gameplay Group International\n\nPublisher: PM Studio
@@ -164,7 +164,7 @@ DESCRIPTION:Developer: Gameplay Group International\n\nPublisher: PM Studio
 END:VEVENT
 BEGIN:VEVENT
 UID:2a9f8cf489e5bae2bd480a8a8488ae56ac519e6f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Orbitals (Nintendo Switch 2)
 DESCRIPTION:Developer: Shapefarm\n\nPublisher: Kepler Interactive\n\nTeam u
@@ -183,7 +183,7 @@ DESCRIPTION:Developer: Shapefarm\n\nPublisher: Kepler Interactive\n\nTeam u
 END:VEVENT
 BEGIN:VEVENT
 UID:3a59b2212a834fcf8ab75df1d89ebef33572af88@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Donutal (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Arc System Works\n\nYou awaken from a cold
@@ -197,7 +197,7 @@ DESCRIPTION:Developer/Publisher: Arc System Works\n\nYou awaken from a cold
 END:VEVENT
 BEGIN:VEVENT
 UID:47aef713681bf84ea551cecc6d5168fbb70bfeb2@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260903
 SUMMARY:BioEden (Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5
  \, Xbox Series X|S)
@@ -209,7 +209,7 @@ DESCRIPTION:Developer: Broken Arms Games\n\nPublisher: Focus Entertainment\
 END:VEVENT
 BEGIN:VEVENT
 UID:04ce65e475bd8101a244be4b513bb88d4ad0f3e5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:Onimusha: Way of the Sword (Nintendo Switch 2\, PC (Microsoft Windo
  ws)\, PlayStation 5\, Xbox Series X|S)
@@ -225,7 +225,7 @@ DESCRIPTION:Developer/Publisher: Capcom\n\nFight through bloodstained battl
 END:VEVENT
 BEGIN:VEVENT
 UID:668b4bf764e2e5b8bbf46563df976cc58588c16e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia: All's Justice (Nintendo Switch 2)
 DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
@@ -236,7 +236,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:29ac006fc2b31d3a1c51ac6191cd228c52a2dc9e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia All's Justice: U.A. Quest Costume Pack (Nintendo S
  witch 2)
@@ -247,7 +247,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:33c3eca7adcc0093d1fc0eb891b3fd29a8ebd764@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia All's Justice: Lady Nagant Hero Costume (Nintendo 
  Switch 2)
@@ -258,7 +258,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:d2d3c92f4e310e69ba2580c5549776ea1557c931@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia All's Justice: 1-A Idol Costume Pack (Nintendo Swi
  tch 2)
@@ -269,7 +269,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:49dfaafa6ae165a5501afee93fe231d462f15956@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia All's Justice: 7 HUD Banners Set (Nintendo Switch 
  2)
@@ -280,7 +280,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:10e4723d5376eb2e2e6c763cfe94865e0159e478@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia All's Justice: School Uniform: Himiko Toga (Ninten
  do Switch 2)
@@ -291,7 +291,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:f84b67058a4390b5d39317bad51508c0842b0c8f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia All's Justice: Opera Costume Pack (Nintendo Switch
   2)
@@ -302,7 +302,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:20b0a78c4e5b36cad503ec5603145c56caf8eb13@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia All's Justice: Playable Character Star and Stripe 
  (Nintendo Switch 2)
@@ -313,7 +313,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:dd5caec752bce0159e4f80d60b43a307d5f4cfc6@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:Onimusha: Way of the Sword - Premium Deluxe Edition (Nintendo Switc
  h 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -332,7 +332,7 @@ DESCRIPTION:Developer/Publisher: Capcom\n\nThe Premium Deluxe Edition inclu
 END:VEVENT
 BEGIN:VEVENT
 UID:abe9786b9ad7c42e4b6df11d5ca242cb9b571893@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:Onimusha: Way of the Sword - Deluxe Edition (Nintendo Switch 2\, PC
   (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -347,7 +347,7 @@ DESCRIPTION:Developer/Publisher: Capcom\n\nThe Deluxe Edition includes:\n•
 END:VEVENT
 BEGIN:VEVENT
 UID:d5b18dfa09ae3182e2a4b782737d16d04606f897@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:Onimusha: Way of the Sword - Cloudbiter Haori (Nintendo Switch 2\, 
  PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -356,7 +356,7 @@ DESCRIPTION:Developer/Publisher: Capcom\n\nhttps://www.igdb.com/games/onimu
 END:VEVENT
 BEGIN:VEVENT
 UID:59c30789f1ca8553f7803b29b2a712b91304c0c8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:Onimusha: Way of the Sword - Moonlight Haori (Nintendo Switch 2\, P
  C (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -365,7 +365,7 @@ DESCRIPTION:Developer/Publisher: Capcom\n\nhttps://www.igdb.com/games/onimu
 END:VEVENT
 BEGIN:VEVENT
 UID:a500b9043022bb8b340fe6fa283fd589e0b490d0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia: All's Justice - Deluxe Edition (Nintendo Switch 2
  )
@@ -376,7 +376,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:f1186204f976759b2f0904e3119cecdfd0d1f81e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:NHL 27 (PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: EA Vancouver\n\nPublisher: EA Sports\n\nEA Sports NH
@@ -389,7 +389,7 @@ DESCRIPTION:Developer: EA Vancouver\n\nPublisher: EA Sports\n\nEA Sports NH
 END:VEVENT
 BEGIN:VEVENT
 UID:1ee58a67ee5ddf75bb3b6e65eef940d6c0eec2ff@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:NBA 2K27 (Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 
  5\, Xbox Series X|S)
@@ -400,7 +400,7 @@ DESCRIPTION:Developer: Visual Concepts\n\nPublisher: 2K\n\nThe hustle doesn
 END:VEVENT
 BEGIN:VEVENT
 UID:dac5081716f680adbfce270b0acc4e576315faed@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:NHL 27: Deluxe Edition (PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: EA Vancouver\n\nPublisher: EA Sports\n\nDeluxe Editi
@@ -413,7 +413,7 @@ DESCRIPTION:Developer: EA Vancouver\n\nPublisher: EA Sports\n\nDeluxe Editi
 END:VEVENT
 BEGIN:VEVENT
 UID:2d9202cb005532833232e2969df3ebdce55e4635@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia: All's Justice - The Worldwide Star Card (Nintendo
   Switch 2)
@@ -423,7 +423,7 @@ DESCRIPTION:Publisher: Bandai Namco Entertainment\n\nObtain The Worldwide S
 END:VEVENT
 BEGIN:VEVENT
 UID:c07f6325f7e6b302281b582789869ba65b78e1ef@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260904
 SUMMARY:My Hero Academia: All's Justice - Ultimate Edition (Nintendo Switch
   2)
@@ -433,7 +433,7 @@ DESCRIPTION:Developer: Byking Inc.\n\nPublisher: Bandai Namco Entertainment
 END:VEVENT
 BEGIN:VEVENT
 UID:f03ebabf75449d522430b77ffcd4a35c3f3f32be@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260907
 SUMMARY:WheelMates (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Firevolt\n\nWheelMates is a 2-player co-op
@@ -443,7 +443,7 @@ DESCRIPTION:Developer/Publisher: Firevolt\n\nWheelMates is a 2-player co-op
 END:VEVENT
 BEGIN:VEVENT
 UID:dde078aa60b6b289fe346d4ebe12788cf5d93d9d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260907
 SUMMARY:Hot Wheels Infinite Rush (Nintendo Switch 2\, PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S)
@@ -455,7 +455,7 @@ DESCRIPTION:Developer/Publisher: Milestone S.r.l.\n\nJump into a Hot Wheels
 END:VEVENT
 BEGIN:VEVENT
 UID:29b46a89275006528aea09bd78ce852a64c764fc@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Mewgenics (Nintendo Switch\, Nintendo Switch 2\, PlayStation 5\, Xb
  ox Series X|S)
@@ -470,7 +470,7 @@ DESCRIPTION:Developer/Publisher: Edmund McMillen\, Tyler Glaiel\n\nFrom the
 END:VEVENT
 BEGIN:VEVENT
 UID:bc7ad6933a70ce4b973cfda3a055f5c56a1d67d1@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Wanderburg (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Randwerk\n\nWanderburg is a minimalist ope
@@ -481,7 +481,7 @@ DESCRIPTION:Developer/Publisher: Randwerk\n\nWanderburg is a minimalist ope
 END:VEVENT
 BEGIN:VEVENT
 UID:953d2bdbb88ca28dd4468dbd18e78cae77fe1f3e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Halloween: The Game (PC (Microsoft Windows)\, PlayStation 5\, Xbox 
  Series X|S)
@@ -492,7 +492,7 @@ DESCRIPTION:Developer: Illfonic\n\nPublisher: Gun Interactive\, Illfonic\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:ae3591536d1d4f7d88a492e3619c28e1059d14cb@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260908
 SUMMARY:Surviving Mars: Relaunched - Feeding the Future (PC (Microsoft Wind
  ows)\, PlayStation 5\, Xbox Series X|S)
@@ -505,7 +505,7 @@ DESCRIPTION:Developer: Haemimont Games\n\nPublisher: Paradox Interactive\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:d16658bc69ceb21a17e843f7c5775ddcce39414f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260909
 SUMMARY:Valheim (Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5
  \, Xbox Series X|S)
@@ -517,7 +517,7 @@ DESCRIPTION:Developer: Iron Gate Studios\n\nPublisher: Coffee Stain Publish
 END:VEVENT
 BEGIN:VEVENT
 UID:e21442a5580ca7fbf7fb6c0f95cb32caee71bcaf@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260909
 SUMMARY:Code Vein II: Mask of Idris (PC (Microsoft Windows)\, PlayStation 5
  \, Xbox Series X|S)
@@ -531,7 +531,7 @@ DESCRIPTION:Developer: Bandai Namco Studios\n\nPublisher: Bandai Namco Ente
 END:VEVENT
 BEGIN:VEVENT
 UID:c66e2bf28c65a3a2a374981c229ead968a5dee09@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Gakkou de Atta Kowai Hanashi (Nintendo Switch)
 DESCRIPTION:Developer: Pandora Box\n\nPublisher: Bandai Namco Games\, Banpr
@@ -542,7 +542,7 @@ DESCRIPTION:Developer: Pandora Box\n\nPublisher: Bandai Namco Games\, Banpr
 END:VEVENT
 BEGIN:VEVENT
 UID:ae0cbadbc1e2bc5467fd328072b1840777a056a0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Wardogs (PC (Microsoft Windows))
 DESCRIPTION:Developer: Bulkhead\n\nPublisher: Team17\n\nWardogs is a first-
@@ -557,7 +557,7 @@ DESCRIPTION:Developer: Bulkhead\n\nPublisher: Team17\n\nWardogs is a first-
 END:VEVENT
 BEGIN:VEVENT
 UID:d96cef2b3eb4eec98ccb77f5ef9bbcffeaa6d895@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Hot Wheels Infinite Rush (Nintendo Switch 2\, PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S)
@@ -569,7 +569,7 @@ DESCRIPTION:Developer/Publisher: Milestone S.r.l.\n\nJump into a Hot Wheels
 END:VEVENT
 BEGIN:VEVENT
 UID:12297c3fee255402d96f1d30c1804ecb012d4627@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Romance of the Three Kingdoms XIV Complete Edition (Nintendo Switch
  \, PC (Microsoft Windows)\, PlayStation 5)
@@ -582,7 +582,7 @@ DESCRIPTION:Developer/Publisher: Koei Tecmo\n\nRomance of the Three Kingdom
 END:VEVENT
 BEGIN:VEVENT
 UID:84566216785e76d69d307dbcac20003a9587ab98@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Wardogs: Supporter Edition (PC (Microsoft Windows))
 DESCRIPTION:Developer: Bulkhead\n\nPublisher: Team17\n\nWardogs: Supporter 
@@ -595,7 +595,7 @@ DESCRIPTION:Developer: Bulkhead\n\nPublisher: Team17\n\nWardogs: Supporter
 END:VEVENT
 BEGIN:VEVENT
 UID:a0f7da7586bda622c34dd34d5832ee35c07935c2@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260911
 SUMMARY:NHL 27 (PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: EA Vancouver\n\nPublisher: EA Sports\n\nEA Sports NH
@@ -608,7 +608,7 @@ DESCRIPTION:Developer: EA Vancouver\n\nPublisher: EA Sports\n\nEA Sports NH
 END:VEVENT
 BEGIN:VEVENT
 UID:084bf59468f53aa2f12a71d2393e55691f41901d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260914
 SUMMARY:Cloudscrapers (PC (Microsoft Windows))
 DESCRIPTION:Developer: Nementic Games\n\nPublisher: Curve Games\n\nCloudscr
@@ -623,7 +623,7 @@ DESCRIPTION:Developer: Nementic Games\n\nPublisher: Curve Games\n\nCloudscr
 END:VEVENT
 BEGIN:VEVENT
 UID:4b754c2c1291e5199e50ec048ab3990c3fda45de@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Marvel's Wolverine (PlayStation 5)
 DESCRIPTION:Developer: Insomniac Games\n\nPublisher: Sony Interactive Enter
@@ -637,7 +637,7 @@ DESCRIPTION:Developer: Insomniac Games\n\nPublisher: Sony Interactive Enter
 END:VEVENT
 BEGIN:VEVENT
 UID:ca3049340f42124c9f56c2b615e54f3a61cf06c5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Destroy All Humans! 2: Reprobed (Nintendo Switch 2)
 DESCRIPTION:Developer: Black Forest Games\n\nPublisher: THQ Nordic\n\nDestr
@@ -654,7 +654,7 @@ DESCRIPTION:Developer: Black Forest Games\n\nPublisher: THQ Nordic\n\nDestr
 END:VEVENT
 BEGIN:VEVENT
 UID:6074324c2c79e541d7aae9129d3bfe2ad706cb75@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Active Matter (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series
   X|S)
@@ -669,7 +669,7 @@ DESCRIPTION:Developer/Publisher: Gaijin Entertainment\n\nYou’re an operativ
 END:VEVENT
 BEGIN:VEVENT
 UID:7e06e98e309f50ca9b52064a7cdbc7bc531d2beb@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260915
 SUMMARY:Marvel's Wolverine: Digital Deluxe Edition (PlayStation 5)
 DESCRIPTION:Developer: Insomniac Games\n\nPublisher: Sony Interactive Enter
@@ -686,7 +686,7 @@ DESCRIPTION:Developer: Insomniac Games\n\nPublisher: Sony Interactive Enter
 END:VEVENT
 BEGIN:VEVENT
 UID:d8b37ee8050875f5bb79a1c33c6800824d269a12@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Two Point Hospital (Nintendo Switch 2\, PlayStation 5\, Xbox Series
   X|S)
@@ -699,7 +699,7 @@ DESCRIPTION:Developer: Two Point Studios\n\nPublisher: Sega\n\nDesign stunn
 END:VEVENT
 BEGIN:VEVENT
 UID:a5868ffd4bfac88664fc6358a974246c8595f39f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Aniimo (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Pawprint Studio\n\nPublisher: Kingsglory\n\nAniimo i
@@ -711,7 +711,7 @@ DESCRIPTION:Developer: Pawprint Studio\n\nPublisher: Kingsglory\n\nAniimo i
 END:VEVENT
 BEGIN:VEVENT
 UID:1fa8fc1284160347f57bced71acf232f0e1d1b12@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Two Point Hospital: Full Health Collection (Nintendo Switch 2\, Pla
  yStation 5\, Xbox Series X|S)
@@ -731,7 +731,7 @@ DESCRIPTION:Developer: Two Point Studios\n\nPublisher: Sega\n\nBehold the F
 END:VEVENT
 BEGIN:VEVENT
 UID:5407c7856250483c7274a3bb6c792800ab48f231@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260916
 SUMMARY:Blackwood (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Attrito M7 Productions\n\nBy day\, you run
@@ -742,7 +742,7 @@ DESCRIPTION:Developer/Publisher: Attrito M7 Productions\n\nBy day\, you run
 END:VEVENT
 BEGIN:VEVENT
 UID:08b7b424976e7f1f0d6705a2e216e6014e54c2ed@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260917
 SUMMARY:Kernel Hearts (Nintendo Switch 2\, PC (Microsoft Windows)\, PlaySta
  tion 5\, Xbox Series X|S)
@@ -754,7 +754,7 @@ DESCRIPTION:Developer: Ephemera Games\n\nPublisher: Whitethorn Games\n\nGat
 END:VEVENT
 BEGIN:VEVENT
 UID:f3f9db9f25ee63e981de7015ea3dd7cda585a53e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260917
 SUMMARY:Endless Legend 2 (PC (Microsoft Windows)\, PlayStation 5\, Xbox Ser
  ies X|S)
@@ -767,7 +767,7 @@ DESCRIPTION:Developer: Amplitude Studios\n\nPublisher: Hooded Horse\n\nWith
 END:VEVENT
 BEGIN:VEVENT
 UID:35943b82c9dba3f3bd2fe7b8f58508fe377af274@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260917
 SUMMARY:The Guild 1 Remake: Europa 1410 (PC (Microsoft Windows))
 DESCRIPTION:Developer: Ashborne Games\n\nPublisher: THQ Nordic\n\nForge you
@@ -778,7 +778,7 @@ DESCRIPTION:Developer: Ashborne Games\n\nPublisher: THQ Nordic\n\nForge you
 END:VEVENT
 BEGIN:VEVENT
 UID:eb4b0c3fd0c362ac370820dd8bb0727b76a98e9a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260917
 SUMMARY:Fire Emblem: Fortune's Weave (Nintendo Switch 2)
 DESCRIPTION:Developer: Intelligent Systems\n\nPublisher: Nintendo\n\nFire E
@@ -795,7 +795,7 @@ DESCRIPTION:Developer: Intelligent Systems\n\nPublisher: Nintendo\n\nFire E
 END:VEVENT
 BEGIN:VEVENT
 UID:b9189984c261852e445999c7a43a5bf43ed4e4a0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260918
 SUMMARY:LEGO Batman: Legacy of the Dark Knight (Nintendo Switch 2)
 DESCRIPTION:Developer: Traveller's Tales\n\nPublisher: WB Games\n\nRise as 
@@ -806,7 +806,7 @@ DESCRIPTION:Developer: Traveller's Tales\n\nPublisher: WB Games\n\nRise as
 END:VEVENT
 BEGIN:VEVENT
 UID:fba78f506c8e20132b1a65a8fad433d9aeb71f6c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260918
 SUMMARY:EA Sports FC 27 (PC (Microsoft Windows)\, PlayStation 5\, Xbox Seri
  es X|S)
@@ -818,7 +818,7 @@ DESCRIPTION:Developer: EA Vancouver\n\nPublisher: EA Sports\n\nWelcome to T
 END:VEVENT
 BEGIN:VEVENT
 UID:ad0d9c390d361c178d519f116c5cd46a90b23041@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Dune: Awakening (PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer/Publisher: Funcom\n\nDune: Awakening is an open-world
@@ -835,7 +835,7 @@ DESCRIPTION:Developer/Publisher: Funcom\n\nDune: Awakening is an open-world
 END:VEVENT
 BEGIN:VEVENT
 UID:4e1b99eda80fd617b9a1b1d59860754481bba087@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Silent Hill: Townfall (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer: Screen Burn\n\nPublisher: Annapurna Interactive\, Ko
@@ -849,7 +849,7 @@ DESCRIPTION:Developer: Screen Burn\n\nPublisher: Annapurna Interactive\, Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:0b90f92b2324fa4a0ce164e3b60d539cac47debf@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Control Resonant (PlayStation 5)
 DESCRIPTION:Developer/Publisher: Remedy Entertainment\n\nExplore a warped M
@@ -860,7 +860,7 @@ DESCRIPTION:Developer/Publisher: Remedy Entertainment\n\nExplore a warped M
 END:VEVENT
 BEGIN:VEVENT
 UID:3a4a9264d435f0dba47e4e82bd8c84b7115ac69f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Well Dweller (Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft W
  indows)\, PlayStation 5\, Xbox Series X|S)
@@ -872,7 +872,7 @@ DESCRIPTION:Developer: Kyle Thompson\n\nPublisher: Top Hat Studios\n\nWell
 END:VEVENT
 BEGIN:VEVENT
 UID:c56afb276fe72d9cd8920e6754db60304eba277e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Rivage (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Exnilo Studio\n\nPublisher: Raw Fury\n\nRivage is an
@@ -883,7 +883,7 @@ DESCRIPTION:Developer: Exnilo Studio\n\nPublisher: Raw Fury\n\nRivage is an
 END:VEVENT
 BEGIN:VEVENT
 UID:94f3ded346ecc226da32672ca551485e2b722719@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Graveyard Keeper II (Nintendo Switch\, Nintendo Switch 2\, PC (Micr
  osoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -896,7 +896,7 @@ DESCRIPTION:Developer: Lazy Bear Games\n\nPublisher: tinyBuild\n\nThe most
 END:VEVENT
 BEGIN:VEVENT
 UID:ee18a83665319fe2b1cc7d62e9e8ee2b826756e8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260922
 SUMMARY:Silent Hill: Townfall Deluxe Edition (PC (Microsoft Windows)\, Play
  Station 5)
@@ -908,7 +908,7 @@ DESCRIPTION:Developer: Screen Burn\n\nPublisher: Annapurna Interactive\, Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:4dbb66e19fb334e64f23a182a71dbb0c5b1ba768@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260923
 SUMMARY:Stick It to the Stickman (PC (Microsoft Windows))
 DESCRIPTION:Developer: Free Lives\n\nPublisher: Devolver Digital\n\nStick i
@@ -920,7 +920,7 @@ DESCRIPTION:Developer: Free Lives\n\nPublisher: Devolver Digital\n\nStick i
 END:VEVENT
 BEGIN:VEVENT
 UID:479f59de56b25e037b65c0045281352b6c082726@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260924
 SUMMARY:Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition (N
  intendo Switch 2)
@@ -935,7 +935,7 @@ DESCRIPTION:Developer: Square Enix Business Division 6\n\nPublisher: Ninten
 END:VEVENT
 BEGIN:VEVENT
 UID:e76f5b72d03a26117513dfaec3f1cdc760dedca2@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260924
 SUMMARY:Silent Hill: Townfall (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer: Screen Burn\n\nPublisher: Annapurna Interactive\, Ko
@@ -949,7 +949,7 @@ DESCRIPTION:Developer: Screen Burn\n\nPublisher: Annapurna Interactive\, Ko
 END:VEVENT
 BEGIN:VEVENT
 UID:f4f241a519fb9aafdf62f5d6c451a8320cf9c990@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260924
 SUMMARY:Control Resonant (PC (Microsoft Windows)\, PlayStation 5\, Xbox Ser
  ies X|S)
@@ -961,7 +961,7 @@ DESCRIPTION:Developer/Publisher: Remedy Entertainment\n\nExplore a warped M
 END:VEVENT
 BEGIN:VEVENT
 UID:cbd802836ce373ba98c33f0be0a42180e2cbee5a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260924
 SUMMARY:Shinobi: Art of Vengeance (Nintendo Switch 2)
 DESCRIPTION:Developer: Lizardcube\n\nPublisher: Sega\n\nSlay the enemies in
@@ -972,7 +972,7 @@ DESCRIPTION:Developer: Lizardcube\n\nPublisher: Sega\n\nSlay the enemies in
 END:VEVENT
 BEGIN:VEVENT
 UID:cf21b018ecba19ec7cccbebf247fd41f6da9a270@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260924
 SUMMARY:Qliphah in Providence's Shadow (Nintendo Switch\, PC (Microsoft Win
  dows)\, PlayStation 5)
@@ -985,7 +985,7 @@ DESCRIPTION:Developer: UnitePlus\n\nPublisher: Arc System Works\n\nSet agai
 END:VEVENT
 BEGIN:VEVENT
 UID:187351ae5543a86acee9b9b8297fc4b1a5401ba2@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260925
 SUMMARY:EA Sports FC 27 (Nintendo Switch\, Nintendo Switch 2\, PC (Microsof
  t Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -997,7 +997,7 @@ DESCRIPTION:Developer: EA Vancouver\n\nPublisher: EA Sports\n\nWelcome to T
 END:VEVENT
 BEGIN:VEVENT
 UID:f2842304f4b0a38e1e39767a4c9181009b0c7dc6@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:Nivalis Nights (PC (Microsoft Windows))
 DESCRIPTION:Developer: ION LANDS\n\nPublisher: 505 Games\n\nGrow your busin
@@ -1008,7 +1008,7 @@ DESCRIPTION:Developer: ION LANDS\n\nPublisher: 505 Games\n\nGrow your busin
 END:VEVENT
 BEGIN:VEVENT
 UID:c908021fbdd444021ccc4fc0296d404fb3ec2f06@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:Transport Fever 3 (PC (Microsoft Windows)\, PlayStation 5\, Xbox Se
  ries X|S)
@@ -1021,7 +1021,7 @@ DESCRIPTION:Developer: Urban Games\n\nPublisher: Paradox Interactive\n\nTra
 END:VEVENT
 BEGIN:VEVENT
 UID:cf18bd2bfd67f37fa31e8b3743815e099e7b2674@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:Ace Combat 8: Wings of Theve (PC (Microsoft Windows)\, PlayStation 
  5\, Xbox Series X|S)
@@ -1034,7 +1034,7 @@ DESCRIPTION:Developer: Bandai Namco Aces Inc.\n\nPublisher: Bandai Namco En
 END:VEVENT
 BEGIN:VEVENT
 UID:395d6e2f4133e381e640c80460d7261eaad17766@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:Way of the Hunter 2 (PC (Microsoft Windows)\, PlayStation 5\, Xbox 
  Series X|S)
@@ -1046,7 +1046,7 @@ DESCRIPTION:Developer: Nine Rocks Games\n\nPublisher: THQ Nordic\n\nFeel th
 END:VEVENT
 BEGIN:VEVENT
 UID:3a30e552f05b8456a6b405dca86259544c0095b5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:Minecraft Dungeons II (Nintendo Switch\, Nintendo Switch 2\, PC (Mi
  crosoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -1061,7 +1061,7 @@ DESCRIPTION:Developer: Mojang Studios\n\nPublisher: Mojang Studios\, Xbox G
 END:VEVENT
 BEGIN:VEVENT
 UID:683abf4328d89264f3c8deb2f5d67d31a65339ee@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:Ace Combat 8: Wings of Theve Deluxe Edition (PC (Microsoft Windows)
  \, PlayStation 5\, Xbox Series X|S)
@@ -1073,7 +1073,7 @@ DESCRIPTION:Developer: Bandai Namco Aces Inc.\n\nPublisher: Bandai Namco En
 END:VEVENT
 BEGIN:VEVENT
 UID:f23dd8c7fb7ac629888500b2f62d3edb7d0b4e7e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260929
 SUMMARY:The Witcher 3: Wild Hunt Remastered (Nintendo Switch 2\, PC (Micros
  oft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -1089,7 +1089,7 @@ DESCRIPTION:Developer/Publisher: CD Projekt RED\n\nComing on September 29\,
 END:VEVENT
 BEGIN:VEVENT
 UID:11cf0297d424e9e4e6b4fedd935d95792790c3dd@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Fallout 76 (PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Bethesda Game Studios\n\nPublisher: Bethesda Softwor
@@ -1104,7 +1104,7 @@ DESCRIPTION:Developer: Bethesda Game Studios\n\nPublisher: Bethesda Softwor
 END:VEVENT
 BEGIN:VEVENT
 UID:b1e34668f878c83823386a68686a6f9ef0382b0c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:007 First Light (Nintendo Switch 2)
 DESCRIPTION:Developer/Publisher: IO Interactive\n\n007 First Light is a thr
@@ -1115,7 +1115,7 @@ DESCRIPTION:Developer/Publisher: IO Interactive\n\n007 First Light is a thr
 END:VEVENT
 BEGIN:VEVENT
 UID:05b45a77da1bd87c9a674be9333f2700bd06216b@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:The Relic: First Guardian (Nintendo Switch 2\, Xbox Series X|S)
 DESCRIPTION:Developer: Project Cloud Games\n\nPublisher: Perp Games\n\n"Gua
@@ -1127,7 +1127,7 @@ DESCRIPTION:Developer: Project Cloud Games\n\nPublisher: Perp Games\n\n"Gua
 END:VEVENT
 BEGIN:VEVENT
 UID:e361325b806647bd05c4fea553d6535375c556df@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Grave Seasons (Nintendo Switch\, PC (Microsoft Windows)\, PlayStati
  on 5\, Xbox Series X|S)
@@ -1139,7 +1139,7 @@ DESCRIPTION:Developer: Perfect Garbage\n\nPublisher: Blumhouse Games\n\nGra
 END:VEVENT
 BEGIN:VEVENT
 UID:59db5c3a4cb2c7a9beb6a8d8c53269b2a14443ea@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Acts of Blood (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Eksil Team\n\nActs of Blood is a Beat ‘em 
@@ -1149,7 +1149,7 @@ DESCRIPTION:Developer/Publisher: Eksil Team\n\nActs of Blood is a Beat ‘em
 END:VEVENT
 BEGIN:VEVENT
 UID:c8b9e8057f98a4cb1f855979e32ce41c7397aeb2@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Absolum (Nintendo Switch 2)
 DESCRIPTION:Developer/Publisher: DotEmu\n\nCrafted with passion by the drea
@@ -1160,7 +1160,7 @@ DESCRIPTION:Developer/Publisher: DotEmu\n\nCrafted with passion by the drea
 END:VEVENT
 BEGIN:VEVENT
 UID:49a6d024c081661d7bc133e5fb2a19b5cb7c9a58@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Solo Leveling: Arise Overdrive (PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Netmarble Neo\n\nPublisher: Netmarble\n\nThe Solo Le
@@ -1170,7 +1170,7 @@ DESCRIPTION:Developer: Netmarble Neo\n\nPublisher: Netmarble\n\nThe Solo Le
 END:VEVENT
 BEGIN:VEVENT
 UID:4abdd0e0b56c2c5b3e3fc3d7e3c1f4ec14993a60@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Digimon Story: Time Stranger - Episode Pack 1: Alternate Dimension 
  (Nintendo Switch 2)
@@ -1182,7 +1182,7 @@ DESCRIPTION:Publisher: BANDAI NAMCO Games Inc\n\nIn this Digimon Story Time
 END:VEVENT
 BEGIN:VEVENT
 UID:2f72eca9adc96981af562123d182b045dadec4cd@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:Digimon Story: Time Stranger - Additional Digimon & Episode Pack 3:
   Anti-ParadoX (Nintendo Switch)
@@ -1197,7 +1197,7 @@ DESCRIPTION:Developer: Media.Vision\n\nPublisher: Bandai Namco Entertainmen
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf7c1b5e6b8ccff83c3e10392da28044c4f0ba5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20260930
 SUMMARY:SnowRunner: Season 19 - Research & Restore (Nintendo Switch 2\, PC 
  (Microsoft Windows)\, PlayStation 5)
@@ -1208,7 +1208,7 @@ DESCRIPTION:Developer: Saber Interactive\n\nPublisher: Focus Entertainment\
 END:VEVENT
 BEGIN:VEVENT
 UID:bc454cb077749d2496f3eb0f99bc9f61efe8d031@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Octopath Traveler (Nintendo Switch 2)
 DESCRIPTION:Developer: ACQUIRE Corp.\, Square Enix Business Division 11\, S
@@ -1220,7 +1220,7 @@ DESCRIPTION:Developer: ACQUIRE Corp.\, Square Enix Business Division 11\, S
 END:VEVENT
 BEGIN:VEVENT
 UID:bbc2b0230372f5a7ebc0b03441712ad2af799a7b@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Octopath Traveler II (Nintendo Switch 2)
 DESCRIPTION:Developer: ACQUIRE Corp.\n\nPublisher: Square Enix\n\nThis game
@@ -1233,7 +1233,7 @@ DESCRIPTION:Developer: ACQUIRE Corp.\n\nPublisher: Square Enix\n\nThis game
 END:VEVENT
 BEGIN:VEVENT
 UID:d4677a8a29ee0c556a441e4cfde3d776ff88b3f1@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:No Rest for the Wicked (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer/Publisher: Moon Studios\n\nFrom Moon Studios\, the aw
@@ -1244,7 +1244,7 @@ DESCRIPTION:Developer/Publisher: Moon Studios\n\nFrom Moon Studios\, the aw
 END:VEVENT
 BEGIN:VEVENT
 UID:0b25e400f0d8b9b0f00650caaadc28efad54b415@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Octopath Traveler + Octopath Traveler II Bundle (Nintendo Switch 2)
 DESCRIPTION:Publisher: Square Enix\n\nTwo HD-2D RPGs from SQUARE ENIX’s Tea
@@ -1255,7 +1255,7 @@ DESCRIPTION:Publisher: Square Enix\n\nTwo HD-2D RPGs from SQUARE ENIX’s Tea
 END:VEVENT
 BEGIN:VEVENT
 UID:4cc221b6fc73a8858c0d66e7e68a691709bc485b@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Gears of War: E-Day (PC (Microsoft Windows)\, Xbox Series X|S)
 DESCRIPTION:Developer: The Coalition\n\nPublisher: Xbox Game Studios\n\nExp
@@ -1270,7 +1270,7 @@ DESCRIPTION:Developer: The Coalition\n\nPublisher: Xbox Game Studios\n\nExp
 END:VEVENT
 BEGIN:VEVENT
 UID:5e6d206aa26feb84f4d4d38bc93cac9a253a0bbb@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:End of Abyss (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series 
  X|S)
@@ -1281,7 +1281,7 @@ DESCRIPTION:Developer: Section 9 Interactive\n\nPublisher: Epic Games Publi
 END:VEVENT
 BEGIN:VEVENT
 UID:96dde123fff688a44305a9884a3e5e2fa7d412aa@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Colorbound (Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Win
  dows)\, PlayStation 5\, Xbox Series X|S)
@@ -1293,7 +1293,7 @@ DESCRIPTION:Developer: Panpipe Studio\n\nPublisher: Whitethorn Games\n\nIn
 END:VEVENT
 BEGIN:VEVENT
 UID:bb86e3cf64291c5b6403f568c49804872b9fa084@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Dynasty Warriors 3: Complete Edition Remastered (PlayStation 5)
 DESCRIPTION:Developer: Omega Force\n\nPublisher: Koei Tecmo\n\nA striking m
@@ -1306,7 +1306,7 @@ DESCRIPTION:Developer: Omega Force\n\nPublisher: Koei Tecmo\n\nA striking m
 END:VEVENT
 BEGIN:VEVENT
 UID:c9607aee97275457825c458e41a7472d9c4b0465@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Rayman Origins: Enhanced Edition (Nintendo Switch 2\, PC (Microsoft
   Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -1322,7 +1322,7 @@ DESCRIPTION:Developer: Ubisoft Montpellier\n\nPublisher: Ubisoft Entertainm
 END:VEVENT
 BEGIN:VEVENT
 UID:c98ba08346d63ecf768f630160db1f935f69d317@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261001
 SUMMARY:Rayman Legends Retold (Nintendo Switch 2\, PC (Microsoft Windows)\,
   PlayStation 5\, Xbox Series X|S)
@@ -1334,7 +1334,7 @@ DESCRIPTION:Developer: Ubisoft Milan\, Ubisoft Montpellier\n\nPublisher: Ub
 END:VEVENT
 BEGIN:VEVENT
 UID:7f6f2a038a4e05dc8171a6cd8328de12dfcd13a6@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261002
 SUMMARY:Ace Combat 8: Wings of Theve (PC (Microsoft Windows)\, PlayStation 
  5\, Xbox Series X|S)
@@ -1347,7 +1347,7 @@ DESCRIPTION:Developer: Bandai Namco Aces Inc.\n\nPublisher: Bandai Namco En
 END:VEVENT
 BEGIN:VEVENT
 UID:1ae465f5e9f97c044c83d4570789dcc4aa13c454@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261002
 SUMMARY:Ace Combat 8: Wings of Theve - Playable Aircraft: F-14A (PC (Micros
  oft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -1361,7 +1361,7 @@ DESCRIPTION:Developer: Bandai Namco Aces Inc.\n\nPublisher: Bandai Namco En
 END:VEVENT
 BEGIN:VEVENT
 UID:6033ad3a23fa314254bbe9be004484556816449d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261002
 SUMMARY:Ace Combat 8: Wings of Theve - Customizable Cosmetic Set (PC (Micro
  soft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -1381,7 +1381,7 @@ DESCRIPTION:Developer: Bandai Namco Aces Inc.\n\nPublisher: Bandai Namco En
 END:VEVENT
 BEGIN:VEVENT
 UID:e280a9065405fceb6a396f2c1434046afd75ccd5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261002
 SUMMARY:Ace Combat 8: Wings of Theve Deluxe Edition (PC (Microsoft Windows)
  \, PlayStation 5\, Xbox Series X|S)
@@ -1393,7 +1393,7 @@ DESCRIPTION:Developer: Bandai Namco Aces Inc.\n\nPublisher: Bandai Namco En
 END:VEVENT
 BEGIN:VEVENT
 UID:8dff2a1aab5de987f8625a050722430d1b07e25f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261005
 SUMMARY:Aion 2 (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: NCSOFT\n\nAion 2 takes place 200 years aft
@@ -1418,7 +1418,7 @@ DESCRIPTION:Developer/Publisher: NCSOFT\n\nAion 2 takes place 200 years aft
 END:VEVENT
 BEGIN:VEVENT
 UID:687ceee6883d0512203c3ea81d872ef7cb1f3fe4@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261006
 SUMMARY:Final Fantasy VII: Ever Crisis (PC (Microsoft Windows))
 DESCRIPTION:Developer: Applibot\, Inc\, Square Enix Creative Business Unit 
@@ -1436,7 +1436,7 @@ DESCRIPTION:Developer: Applibot\, Inc\, Square Enix Creative Business Unit
 END:VEVENT
 BEGIN:VEVENT
 UID:068928d2ee1d0ab801c1e6d5181d023df2b9acbb@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261006
 SUMMARY:Epic Mickey: Rebrushed (Nintendo Switch 2)
 DESCRIPTION:Developer: Purple Lamp Studios\n\nPublisher: THQ Nordic\n\nEmba
@@ -1447,7 +1447,7 @@ DESCRIPTION:Developer: Purple Lamp Studios\n\nPublisher: THQ Nordic\n\nEmba
 END:VEVENT
 BEGIN:VEVENT
 UID:7bbf2e58957343559ca9bc29be181695106d01dd@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261006
 SUMMARY:Gears of War: E-Day (PC (Microsoft Windows)\, Xbox Series X|S)
 DESCRIPTION:Developer: The Coalition\n\nPublisher: Xbox Game Studios\n\nExp
@@ -1462,7 +1462,7 @@ DESCRIPTION:Developer: The Coalition\n\nPublisher: Xbox Game Studios\n\nExp
 END:VEVENT
 BEGIN:VEVENT
 UID:d6aded72e923d29a82b58a37ff0b07cb1286b8a7@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261006
 SUMMARY:Star Wars: Galactic Racer (PC (Microsoft Windows)\, PlayStation 5\,
   Xbox Series X|S)
@@ -1475,7 +1475,7 @@ DESCRIPTION:Developer: Fuse Games\n\nPublisher: Secret Mode\n\nSTAR WARS: G
 END:VEVENT
 BEGIN:VEVENT
 UID:94e304e8b1b9424a43d5daaa5db95a160fb9e51d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts III (Nintendo Switch 2\, PlayStation 5\, Xbox Series
   X|S)
@@ -1505,7 +1505,7 @@ DESCRIPTION:Developer: Square Enix Business Division 3\n\nPublisher: Square
 END:VEVENT
 BEGIN:VEVENT
 UID:bc3aecceae5491d7366cb5afff301f6b0a66af78@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts HD 2.8 Final Chapter Prologue (Nintendo Switch 2\, P
  layStation 5\, Xbox Series X|S)
@@ -1524,7 +1524,7 @@ DESCRIPTION:Developer: Square Enix Business Division 3\n\nPublisher: Disney
 END:VEVENT
 BEGIN:VEVENT
 UID:4d5307f9b63606346b0a3737a236867cf8439c9b@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts 0.2: Birth by Sleep - A Fragmentary Passage (Nintend
  o Switch 2\, PlayStation 5\, Xbox Series X|S)
@@ -1541,7 +1541,7 @@ DESCRIPTION:Developer: Square Enix Business Division 3\n\nPublisher: Square
 END:VEVENT
 BEGIN:VEVENT
 UID:4c2b553be52c553311780802c87ca32af7f9376b@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts HD 1.5 + 2.5 Remix (Nintendo Switch\, Nintendo Switc
  h 2\, PlayStation 5\, Xbox Series X|S)
@@ -1554,7 +1554,7 @@ DESCRIPTION:Developer: Square Enix Business Division 3\n\nPublisher: Disney
 END:VEVENT
 BEGIN:VEVENT
 UID:447e03c9b90fdcb310865e9b491097d18d809294@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts Dream Drop Distance HD (Nintendo Switch 2\, PlayStat
  ion 5\, Xbox Series X|S)
@@ -1572,7 +1572,7 @@ DESCRIPTION:Developer: Square Enix Business Division 3\n\nPublisher: Square
 END:VEVENT
 BEGIN:VEVENT
 UID:4a44c59287fa00b8adfdcb1dcd0f76fd357a4266@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts III: Re Mind (Nintendo Switch 2\, PlayStation 5\, Xb
  ox Series X|S)
@@ -1588,7 +1588,7 @@ DESCRIPTION:Developer: Square Enix Creative Business Unit I\n\nPublisher: S
 END:VEVENT
 BEGIN:VEVENT
 UID:d67003f5e0aec1cbd79b2b009df0c7682977d36a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Forever Ago (Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStati
  on 5\, Xbox Series X|S)
@@ -1601,7 +1601,7 @@ DESCRIPTION:Developer: Third Shift\n\nPublisher: Annapurna Interactive\n\nF
 END:VEVENT
 BEGIN:VEVENT
 UID:40a47e1b456ca53fd4cc95f6f05a2f7edb36e49b@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Hell is Us (Nintendo Switch 2)
 DESCRIPTION:Developer: Rogue Factor\n\nPublisher: Nacon\n\nIf war is the cl
@@ -1612,7 +1612,7 @@ DESCRIPTION:Developer: Rogue Factor\n\nPublisher: Nacon\n\nIf war is the cl
 END:VEVENT
 BEGIN:VEVENT
 UID:1b48986c8368949976cca43db35e7bd142705ae2@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts Final Mix (Nintendo Switch\, Nintendo Switch 2\, Pla
  yStation 5\, Xbox Series X|S)
@@ -1629,7 +1629,7 @@ DESCRIPTION:Developer: Square Enix 1st Production Department\n\nPublisher:
 END:VEVENT
 BEGIN:VEVENT
 UID:f97cb3436970498f07cc6a03584438fe8e971bf8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts Re:Chain of Memories (Nintendo Switch\, Nintendo Swi
  tch 2\, PlayStation 5\, Xbox Series X|S)
@@ -1645,7 +1645,7 @@ DESCRIPTION:Developer: Square Enix 1st Production Department\n\nPublisher:
 END:VEVENT
 BEGIN:VEVENT
 UID:696994ac9f274f55d0ebc89dda30c90a72bb73a1@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts Birth by Sleep Final Mix (Nintendo Switch\, Nintendo
   Switch 2\, PlayStation 5\, Xbox Series X|S)
@@ -1657,7 +1657,7 @@ DESCRIPTION:Developer: Square Enix Business Division 3\n\nPublisher: Square
 END:VEVENT
 BEGIN:VEVENT
 UID:5a2307981c9543b6c0d22543007632dd4e13195c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts II Final Mix (Nintendo Switch\, Nintendo Switch 2\, 
  PlayStation 5\, Xbox Series X|S)
@@ -1669,7 +1669,7 @@ DESCRIPTION:Developer: Square Enix Business Division 3\n\nPublisher: Square
 END:VEVENT
 BEGIN:VEVENT
 UID:815a5e02f0c396328e250014ccf3981af253ab1a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:The Crew: Motorfest (Nintendo Switch 2)
 DESCRIPTION:Developer: Ivory Tower\n\nPublisher: Ubisoft Entertainment\n\nT
@@ -1686,7 +1686,7 @@ DESCRIPTION:Developer: Ivory Tower\n\nPublisher: Ubisoft Entertainment\n\nT
 END:VEVENT
 BEGIN:VEVENT
 UID:ffbcd482480aeae10e1b3f60d11fa8e8118ee33a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingmakers (PC (Microsoft Windows))
 DESCRIPTION:Developer: Redemption Road Games\n\nPublisher: tinyBuild\n\nGo 
@@ -1698,7 +1698,7 @@ DESCRIPTION:Developer: Redemption Road Games\n\nPublisher: tinyBuild\n\nGo
 END:VEVENT
 BEGIN:VEVENT
 UID:c03234a88c8da18e57cd0931a63417099a0b6ade@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts III + Re Mind (Nintendo Switch 2\, PlayStation 5\, X
  box Series X|S)
@@ -1710,7 +1710,7 @@ DESCRIPTION:Developer: Square Enix Creative Business Unit I\n\nPublisher: S
 END:VEVENT
 BEGIN:VEVENT
 UID:6dd7acc2a7403c01837434d2d44926fb7684ad02@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Silver Pines (Nintendo Switch\, PC (Microsoft Windows)\, PlayStatio
  n 5\, Xbox Series X|S)
@@ -1722,7 +1722,7 @@ DESCRIPTION:Developer: Wych Elm\n\nPublisher: Team17\n\nSilver Pines is a S
 END:VEVENT
 BEGIN:VEVENT
 UID:0496ba6c811a3f9b337af227d0ac195511c2fde5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Clive Barker's Hellraiser: Revival (PC (Microsoft Windows)\, PlaySt
  ation 5\, Xbox Series X|S)
@@ -1735,7 +1735,7 @@ DESCRIPTION:Developer: Mad Head Games\n\nPublisher: Boss Team Games\, Saber
 END:VEVENT
 BEGIN:VEVENT
 UID:46386e92cb91b845bdb2d0c27bbc2ab8a562b600@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Once Upon a Katamari (Nintendo Switch 2)
 DESCRIPTION:Developer: Rengame\n\nPublisher: Bandai Namco Entertainment\n\n
@@ -1747,7 +1747,7 @@ DESCRIPTION:Developer: Rengame\n\nPublisher: Bandai Namco Entertainment\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:dc70685e309014f7a394634e2a8fe5b9d5c25b80@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Order of the Sinking Star (Nintendo Switch 2\, PC (Microsoft Window
  s)\, PlayStation 5)
@@ -1760,7 +1760,7 @@ DESCRIPTION:Developer: Thekla\, Inc\n\nPublisher: Arc Games\n\nFrom directo
 END:VEVENT
 BEGIN:VEVENT
 UID:646eb445c9a6a259698967fbdcf988ecf043372e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Kingdom Hearts Collection [I-III] (Nintendo Switch 2\, PlayStation 
  5\, Xbox Series X|S)
@@ -1773,7 +1773,7 @@ DESCRIPTION:Developer: Square Enix Creative Studio I\n\nPublisher: Square E
 END:VEVENT
 BEGIN:VEVENT
 UID:ab2cd8fc2757d0a93f5457b93460aa84ddbd1352@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261008
 SUMMARY:Once Upon A Katamari: Rolling Live Highlights (Nintendo Switch\, PC
   (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -1785,7 +1785,7 @@ DESCRIPTION:Developer: Rengame\n\nPublisher: Bandai Namco Entertainment\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:534924b640961cdc969de4eba8fccfba096d2308@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261009
 SUMMARY:Dragon's Dogma II (Nintendo Switch 2)
 DESCRIPTION:Developer: Capcom Development Division 1\n\nPublisher: Capcom\n
@@ -1801,7 +1801,7 @@ DESCRIPTION:Developer: Capcom Development Division 1\n\nPublisher: Capcom\n
 END:VEVENT
 BEGIN:VEVENT
 UID:3600a31af507632f951c1f0a0450de80e68845a0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261009
 SUMMARY:Dragon's Dogma II: Dark Arisen Expansion (Nintendo Switch 2\, PC (M
  icrosoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -1815,7 +1815,7 @@ DESCRIPTION:Publisher: Capcom\n\nDragon's Dogma 2: Dark Arisen enriches the
 END:VEVENT
 BEGIN:VEVENT
 UID:e2ec835276ade02937484ae3731ad5b788a77532@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261009
 SUMMARY:Dragon's Dogma II: Dark Arisen (Nintendo Switch 2\, PC (Microsoft W
  indows)\, PlayStation 5\, Xbox Series X|S)
@@ -1825,7 +1825,7 @@ DESCRIPTION:Publisher: Capcom\n\nThis is a bundle containing both Dragon's
 END:VEVENT
 BEGIN:VEVENT
 UID:376fb847dca84484e6c8e2b08b0fea484b437732@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261013
 SUMMARY:Deep Dish Dungeon (PC (Microsoft Windows)\, Xbox Series X|S)
 DESCRIPTION:Developer: Behold Studios\n\nPublisher: Raw Fury\n\nCo-op onlin
@@ -1837,7 +1837,7 @@ DESCRIPTION:Developer: Behold Studios\n\nPublisher: Raw Fury\n\nCo-op onlin
 END:VEVENT
 BEGIN:VEVENT
 UID:2602da6cba2e29d9e707d3c11c5487c37b906b88@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261013
 SUMMARY:SpongeBob SquarePants: Titans of the Tide (Nintendo Switch)
 DESCRIPTION:Developer: Purple Lamp Studios\n\nPublisher: THQ Nordic\n\nPrep
@@ -1849,7 +1849,7 @@ DESCRIPTION:Developer: Purple Lamp Studios\n\nPublisher: THQ Nordic\n\nPrep
 END:VEVENT
 BEGIN:VEVENT
 UID:08a314093414983b95961eae0dc09a9216bb7fb9@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261013
 SUMMARY:Valor Mortis (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series 
  X|S)
@@ -1862,7 +1862,7 @@ DESCRIPTION:Developer: One More Level\n\nPublisher: Lyrical Games\, One Mor
 END:VEVENT
 BEGIN:VEVENT
 UID:2372b80d4656bdb98e19c05533fc4bf0c63ad473@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261013
 SUMMARY:Just Dance: Decades of Hits (Nintendo Switch\, PlayStation 5\, Xbox
   Series X|S)
@@ -1871,7 +1871,7 @@ DESCRIPTION:Publisher: Ubisoft Entertainment\n\nhttps://www.igdb.com/games/
 END:VEVENT
 BEGIN:VEVENT
 UID:a4376fb370c79d5346e6536ed6ad25450a51fd2f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261014
 SUMMARY:Over the Hill (PC (Microsoft Windows))
 DESCRIPTION:Developer: Funselektor Labs\, Strelka Games\n\nPublisher: Funse
@@ -1882,7 +1882,7 @@ DESCRIPTION:Developer: Funselektor Labs\, Strelka Games\n\nPublisher: Funse
 END:VEVENT
 BEGIN:VEVENT
 UID:3408a1beb747998e1a9003f82a4bd4d82ccac534@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261014
 SUMMARY:Warhammer 40\,000: Boltgun 2 (PC (Microsoft Windows)\, PlayStation 
  5\, Xbox Series X|S)
@@ -1895,7 +1895,7 @@ DESCRIPTION:Developer: Auroch Digital\n\nPublisher: Big Fan Games\, Devolve
 END:VEVENT
 BEGIN:VEVENT
 UID:00ed0d254dd6d894d81662eb0b274c951d7af174@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261015
 SUMMARY:Ratatan (Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5
  \, Xbox Series X|S)
@@ -1906,7 +1906,7 @@ DESCRIPTION:Developer: Ratata Arts\n\nPublisher: Game Source Entertainment\
 END:VEVENT
 BEGIN:VEVENT
 UID:fe6edfd3d2f851512bff381e33efe08cde9a1649@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261015
 SUMMARY:Castlevania: Belmont's Curse (Nintendo Switch\, PC (Microsoft Windo
  ws)\, PlayStation 5\, Xbox Series X|S)
@@ -1919,7 +1919,7 @@ DESCRIPTION:Developer: Evil Empire\n\nPublisher: Konami\n\n1499. Paris is e
 END:VEVENT
 BEGIN:VEVENT
 UID:dccfda621103792dccd776c5c28c790190866a18@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261016
 SUMMARY:Tenebris Somnia (Nintendo Switch\, Nintendo Switch 2\, PC (Microsof
  t Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -1936,7 +1936,7 @@ DESCRIPTION:Developer: Andrés Borghi\, Tobías Rusjan\n\nPublisher: New Bloo
 END:VEVENT
 BEGIN:VEVENT
 UID:2b29e8bf5a632e7e8d1a22548f211dad629f4ebc@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261016
 SUMMARY:Call of Duty: Modern Warfare 4 (Nintendo Switch 2)
 DESCRIPTION:Developer: Infinity Ward\n\nPublisher: Activision\n\nCall of Du
@@ -1954,7 +1954,7 @@ DESCRIPTION:Developer: Infinity Ward\n\nPublisher: Activision\n\nCall of Du
 END:VEVENT
 BEGIN:VEVENT
 UID:dd0839b996f80edcb148c4a199dc6253a182cf06@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261016
 SUMMARY:Tales of Eternia: Remastered (Nintendo Switch\, Nintendo Switch 2\,
   PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -1966,7 +1966,7 @@ DESCRIPTION:Developer: Tose\n\nPublisher: Bandai Namco Entertainment\n\nTal
 END:VEVENT
 BEGIN:VEVENT
 UID:de3edd0ea13a86463474f5b8e83401958a10c418@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261021
 SUMMARY:Stupid Never Dies (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer: GPTRACK50\n\nSet in a monster-ruled otherworldly dun
@@ -1979,7 +1979,7 @@ DESCRIPTION:Developer: GPTRACK50\n\nSet in a monster-ruled otherworldly dun
 END:VEVENT
 BEGIN:VEVENT
 UID:1e5771557494b8d5854bc7efada79d4fd04b44a9@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Demons' Night Fever (Nintendo Switch\, PC (Microsoft Windows)\, Pla
  yStation 5)
@@ -1993,7 +1993,7 @@ DESCRIPTION:Developer: SuperNiche\n\nPublisher: Arc System Works\n\nMisdeed
 END:VEVENT
 BEGIN:VEVENT
 UID:e987607ce019ba86abf8e54ec6f9685107da6643@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Nintendo Switch Sports Resort (Nintendo Switch 2)
 DESCRIPTION:Publisher: Nintendo\n\nGet up and move in 12 motion-control spo
@@ -2005,7 +2005,7 @@ DESCRIPTION:Publisher: Nintendo\n\nGet up and move in 12 motion-control spo
 END:VEVENT
 BEGIN:VEVENT
 UID:9026a4b04e1b599e88693bcf9c93f25ddc9ecdf2@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261022
 SUMMARY:Final Fantasy Resonance (Nintendo Switch\, Nintendo Switch 2\, PC (
  Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -2018,7 +2018,7 @@ DESCRIPTION:Developer: Lancarse\, Square Enix Creative Studio 5\n\nPublishe
 END:VEVENT
 BEGIN:VEVENT
 UID:faf87fc9caeb086279184e4d3a1086b46ce254fc@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261023
 SUMMARY:Call of Duty: Modern Warfare 4 (PC (Microsoft Windows)\, PlayStatio
  n 5\, Xbox Series X|S)
@@ -2037,7 +2037,7 @@ DESCRIPTION:Developer: Infinity Ward\n\nPublisher: Activision\n\nCall of Du
 END:VEVENT
 BEGIN:VEVENT
 UID:540cab669d89bc182fdf8ffb0fc7f512542cc2a8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261023
 SUMMARY:One Piece: Grand Gourmet (Nintendo Switch\, Nintendo Switch 2\, PC 
  (Microsoft Windows))
@@ -2050,7 +2050,7 @@ DESCRIPTION:Developer: Kairosoft\n\nPublisher: Bandai Namco Entertainment\n
 END:VEVENT
 BEGIN:VEVENT
 UID:2653d7c6c41b4579a039548193b79c83f3a5886c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261027
 SUMMARY:Minecraft (Nintendo Switch 2)
 DESCRIPTION:Developer/Publisher: Mojang Studios\n\nMinecraft focuses on all
@@ -2069,7 +2069,7 @@ DESCRIPTION:Developer/Publisher: Mojang Studios\n\nMinecraft focuses on all
 END:VEVENT
 BEGIN:VEVENT
 UID:4a8237264610cd626749d5b11bfcaaa492079d07@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261027
 SUMMARY:Emberville (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Cygnus Cross\n\nHelp the citizens of Ember
@@ -2080,7 +2080,7 @@ DESCRIPTION:Developer/Publisher: Cygnus Cross\n\nHelp the citizens of Ember
 END:VEVENT
 BEGIN:VEVENT
 UID:e694979530746e772e726ffc2b6c44e1bd0bc282@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261027
 SUMMARY:The Séance of Blake Manor (Nintendo Switch 2\, PlayStation 5\, Xbox
   Series X|S)
@@ -2092,7 +2092,7 @@ DESCRIPTION:Developer: Spooky Doorway\n\nPublisher: Raw Fury\n\nThe Séance
 END:VEVENT
 BEGIN:VEVENT
 UID:a91c52c20805af903dc15494cd5932825cc3f21a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261027
 SUMMARY:Remothered: Red Nun's Legacy (Nintendo Switch 2\, PC (Microsoft Win
  dows)\, PlayStation 5\, Xbox Series X|S)
@@ -2104,7 +2104,7 @@ DESCRIPTION:Developer: Stormind Games\n\nPublisher: Soft Source\, Stormind
 END:VEVENT
 BEGIN:VEVENT
 UID:d993780bcdcf0f9a3605648c0c93e7b4173046a7@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261029
 SUMMARY:Phantom Blade 0 (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer/Publisher: S-Game\n\nFramed for the death of his mast
@@ -2117,7 +2117,7 @@ DESCRIPTION:Developer/Publisher: S-Game\n\nFramed for the death of his mast
 END:VEVENT
 BEGIN:VEVENT
 UID:3fc993cc0620afa073d2649f2f70147e064e9721@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261029
 SUMMARY:Steins\;Gate Re:Boot (Nintendo Switch\, Nintendo Switch 2\, PlaySta
  tion 5\, Xbox Series X|S)
@@ -2129,7 +2129,7 @@ DESCRIPTION:Developer: MAGES.\, Nitro Plus\, Spike Chunsoft\n\nPublisher: M
 END:VEVENT
 BEGIN:VEVENT
 UID:7fb93e2d22400495d664fb9c2a22f8c8c2a700f7@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261029
 SUMMARY:Black Lily's Tale (Nintendo Switch)
 DESCRIPTION:Developer: 1000-REKA\n\nPublisher: KADOKAWA Game Linkage Inc.\n
@@ -2140,7 +2140,7 @@ DESCRIPTION:Developer: 1000-REKA\n\nPublisher: KADOKAWA Game Linkage Inc.\n
 END:VEVENT
 BEGIN:VEVENT
 UID:c9a851fc53e79f2465393663425f1ddad468ffd3@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261029
 SUMMARY:Black Lily's Tale: Famitsu Wedding DX Pack (Nintendo Switch)
 DESCRIPTION:Developer: 1000-REKA\n\nPublisher: KADOKAWA Game Linkage Inc.\n
@@ -2151,7 +2151,7 @@ DESCRIPTION:Developer: 1000-REKA\n\nPublisher: KADOKAWA Game Linkage Inc.\n
 END:VEVENT
 BEGIN:VEVENT
 UID:004b4c278aecec7c24e17470089b22f91b9f7c9d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261105
 SUMMARY:Wielders of the Essence (PC (Microsoft Windows))
 DESCRIPTION:Developer: Lavapotion\n\nPublisher: Coffee Stain Publishing\, L
@@ -2163,7 +2163,7 @@ DESCRIPTION:Developer: Lavapotion\n\nPublisher: Coffee Stain Publishing\, L
 END:VEVENT
 BEGIN:VEVENT
 UID:8c35a195eb39203c6e7813292ca900a46640c954@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Metaphor: ReFantazio (Nintendo Switch 2)
 DESCRIPTION:Developer: Studio Zero\n\nPublisher: Atlus\, Sega\n\nFrom the c
@@ -2178,7 +2178,7 @@ DESCRIPTION:Developer: Studio Zero\n\nPublisher: Atlus\, Sega\n\nFrom the c
 END:VEVENT
 BEGIN:VEVENT
 UID:61449f0d9f6d852cb121175abd4aeec040fcebb0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Grand Theft Auto VI (PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Rockstar Games\n\nPublisher: Rockstar Games\, Take-T
@@ -2189,7 +2189,7 @@ DESCRIPTION:Developer: Rockstar Games\n\nPublisher: Rockstar Games\, Take-T
 END:VEVENT
 BEGIN:VEVENT
 UID:061eeb8240e54a1b48e8790b32142a580b6bb39c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Volvy’s Adventure: Reslimed (PC (Microsoft Windows))
 DESCRIPTION:Developer: doinksoft\n\nPublisher: Devolver Digital\n\nVolvy's 
@@ -2199,7 +2199,7 @@ DESCRIPTION:Developer: doinksoft\n\nPublisher: Devolver Digital\n\nVolvy's
 END:VEVENT
 BEGIN:VEVENT
 UID:1c85d2829f3ab8858ad6f6f221f6362710289b51@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261119
 SUMMARY:Grand Theft Auto VI: Ultimate Edition (PlayStation 5\, Xbox Series 
  X|S)
@@ -2220,7 +2220,7 @@ DESCRIPTION:Developer: Rockstar Games\n\nPublisher: Rockstar Games\, Take-T
 END:VEVENT
 BEGIN:VEVENT
 UID:0b69a1a610a930ed128b6c7f9d52c7782b11185c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:Warhammer 40\,000: Dawn of War IV (PC (Microsoft Windows))
 DESCRIPTION:Developer: KING Art\n\nPublisher: Deep Silver\n\nReturn to the 
@@ -2232,7 +2232,7 @@ DESCRIPTION:Developer: KING Art\n\nPublisher: Deep Silver\n\nReturn to the
 END:VEVENT
 BEGIN:VEVENT
 UID:e56e7c65a05d7a2336b89e7833d8b0242b2ab2da@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:Beautiful Light (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Deep Worlds\n\nBeautiful Light is a PvPvP(
@@ -2244,7 +2244,7 @@ DESCRIPTION:Developer/Publisher: Deep Worlds\n\nBeautiful Light is a PvPvP(
 END:VEVENT
 BEGIN:VEVENT
 UID:4cb34ccfe63091e754fc7427bc2d36357dfe80d5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:There Are No Ghosts at the Grand (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Friday Sundae\n\nInherit a crumbling Engli
@@ -2256,7 +2256,7 @@ DESCRIPTION:Developer/Publisher: Friday Sundae\n\nInherit a crumbling Engli
 END:VEVENT
 BEGIN:VEVENT
 UID:7a02e32870070455f58c7ef479ebccb2dbcc1694@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Warhammer 40\,000: Dawn of War IV (PC (Microsoft Windows))
 DESCRIPTION:Developer: KING Art\n\nPublisher: Deep Silver\n\nReturn to the 
@@ -2268,7 +2268,7 @@ DESCRIPTION:Developer: KING Art\n\nPublisher: Deep Silver\n\nReturn to the
 END:VEVENT
 BEGIN:VEVENT
 UID:9c5a9b27963a032ec2762ea753395166921cdebd@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Dragon Quest Monsters: The Withered World (Nintendo Switch\, Ninten
  do Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -2281,7 +2281,7 @@ DESCRIPTION:Developer: Square Enix Creative Studio 4\, Tose\n\nPublisher: S
 END:VEVENT
 BEGIN:VEVENT
 UID:46e3e6ed5ffe68a3755bc20725c2db49b1267edd@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261203
 SUMMARY:Xenoblade Chronicles 3: Nintendo Switch 2 Edition (Nintendo Switch 
  2)
@@ -2294,7 +2294,7 @@ DESCRIPTION:Developer: Monolith Soft\n\nPublisher: Nintendo\n\nTraverse mas
 END:VEVENT
 BEGIN:VEVENT
 UID:a73ccc27daeb8711c2fbef753148ac35c0374d6a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:Attack on Titan 3 (Nintendo Switch 2\, PC (Microsoft Windows)\, Pla
  yStation 5\, Xbox Series X|S)
@@ -2306,7 +2306,7 @@ DESCRIPTION:Developer: Omega Force\n\nPublisher: Koei Tecmo Games\n\nExperi
 END:VEVENT
 BEGIN:VEVENT
 UID:9010f6f8ea33898c04d238c43bc617fb9bf17f2d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:Path of Exile 2 (PC (Microsoft Windows)\, PlayStation 5\, Xbox Seri
  es X|S)
@@ -2320,7 +2320,7 @@ DESCRIPTION:Developer: Grinding Gear Games\n\nPublisher: Grinding Gear Game
 END:VEVENT
 BEGIN:VEVENT
 UID:b2578dc45494c72166b774f7d3af34ecbd0bece3@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:DayZ (Nintendo Switch 2)
 DESCRIPTION:Developer/Publisher: Bohemia Interactive\n\nDayZ is a hardcore 
@@ -2333,7 +2333,7 @@ DESCRIPTION:Developer/Publisher: Bohemia Interactive\n\nDayZ is a hardcore
 END:VEVENT
 BEGIN:VEVENT
 UID:a86322e95f0caa43ba863f9ca3c450c74951091c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Squadron 42 (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Cloud Imperium Games Corporation\n\nTake t
@@ -2349,7 +2349,7 @@ DESCRIPTION:Developer/Publisher: Cloud Imperium Games Corporation\n\nTake t
 END:VEVENT
 BEGIN:VEVENT
 UID:8b226759704e280b91ebd0274e0557f4b998226d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Infinitesimals (PC (Microsoft Windows)\, PlayStation 5\, Xbox Serie
  s X|S)
@@ -2361,7 +2361,7 @@ DESCRIPTION:Developer: Cubit Studios\n\nPublisher: Epic Games Publishing\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:3a880c7280462ba849052293e0b7a07af7765af8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Witchbrook (Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Win
  dows)\, Xbox Series X|S)
@@ -2373,7 +2373,7 @@ DESCRIPTION:Developer/Publisher: Chucklefish Games\n\nExperience the thrill
 END:VEVENT
 BEGIN:VEVENT
 UID:ff9cddd458e3438b76e97efa5137fea7ba4f24c9@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Sayonara Wild Hearts (Nintendo Switch 2)
 DESCRIPTION:Developer: Simogo\n\nPublisher: Annapurna Interactive\n\nSayona
@@ -2384,7 +2384,7 @@ DESCRIPTION:Developer: Simogo\n\nPublisher: Annapurna Interactive\n\nSayona
 END:VEVENT
 BEGIN:VEVENT
 UID:58367b0fb407517916ccca071fdf0e4df2c42d1e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:The Way of Wrath (PC (Microsoft Windows))
 DESCRIPTION:Developer: Animmal\n\nPublisher: Hooded Horse\n\nThe Way of Wra
@@ -2398,7 +2398,7 @@ DESCRIPTION:Developer: Animmal\n\nPublisher: Hooded Horse\n\nThe Way of Wra
 END:VEVENT
 BEGIN:VEVENT
 UID:f2883b6816838d02ff6d280a65d8b17e8eba5a33@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Nekopara Sekai Connect (PC (Microsoft Windows))
 DESCRIPTION:Developer: Good Smile Company\, NEKO WORKs\n\nPublisher: Good S
@@ -2408,7 +2408,7 @@ DESCRIPTION:Developer: Good Smile Company\, NEKO WORKs\n\nPublisher: Good S
 END:VEVENT
 BEGIN:VEVENT
 UID:a3c33dc2825d957cc8ccd91b04aa06866d3747dc@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Shadow of the Road (PC (Microsoft Windows))
 DESCRIPTION:Developer: Another Angle Games\n\nPublisher: Owlcat Games\n\nSh
@@ -2420,7 +2420,7 @@ DESCRIPTION:Developer: Another Angle Games\n\nPublisher: Owlcat Games\n\nSh
 END:VEVENT
 BEGIN:VEVENT
 UID:c27998715254dd14c95cb639a66588d79d671cca@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Akatori (Nintendo Switch)
 DESCRIPTION:Developer: Contrast Games\n\nPublisher: Games Harbor\n\nA color
@@ -2431,7 +2431,7 @@ DESCRIPTION:Developer: Contrast Games\n\nPublisher: Games Harbor\n\nA color
 END:VEVENT
 BEGIN:VEVENT
 UID:fa2ad0a11374693e6b4b13e28c379853b76572a8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:SacriFire (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Pixelated Milk\n\nA modern JRPG-inspired g
@@ -2440,7 +2440,7 @@ DESCRIPTION:Developer/Publisher: Pixelated Milk\n\nA modern JRPG-inspired g
 END:VEVENT
 BEGIN:VEVENT
 UID:6dcce15f68116efe8d8e57e6a59b275c76e1b7bf@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Fragile Existence (PC (Microsoft Windows))
 DESCRIPTION:Developer: Fragile Continuum\n\nPublisher: Hooded Horse\n\nTake
@@ -2452,7 +2452,7 @@ DESCRIPTION:Developer: Fragile Continuum\n\nPublisher: Hooded Horse\n\nTake
 END:VEVENT
 BEGIN:VEVENT
 UID:b5981458df4fcc5579997e37fa34891b3ace2f82@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Townseek (PC (Microsoft Windows))
 DESCRIPTION:Developer: Whales And Games\n\nPublisher: Super Rare Originals\
@@ -2465,7 +2465,7 @@ DESCRIPTION:Developer: Whales And Games\n\nPublisher: Super Rare Originals\
 END:VEVENT
 BEGIN:VEVENT
 UID:353427bacdbfeab2ae982c222297896568e594cf@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Warhammer 40\,000: Space Marine II (Nintendo Switch 2)
 DESCRIPTION:Developer: Saber Interactive\n\nPublisher: Focus Entertainment\
@@ -2481,7 +2481,7 @@ DESCRIPTION:Developer: Saber Interactive\n\nPublisher: Focus Entertainment\
 END:VEVENT
 BEGIN:VEVENT
 UID:a922aa8e5a9a4c1f22d5de56e0414c984ebd10a0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Showa American Story (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer: Nekcom\n\nPublisher: 2P Games\n\nShowa American Stor
@@ -2492,7 +2492,7 @@ DESCRIPTION:Developer: Nekcom\n\nPublisher: 2P Games\n\nShowa American Stor
 END:VEVENT
 BEGIN:VEVENT
 UID:51e448ec9338f381114c2180c12328c2e52a9a42@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Solo Leveling: Arise (Xbox Series X|S)
 DESCRIPTION:Developer/Publisher: Netmarble\n\nSolo Leveling: Arise is an ac
@@ -2501,7 +2501,7 @@ DESCRIPTION:Developer/Publisher: Netmarble\n\nSolo Leveling: Arise is an ac
 END:VEVENT
 BEGIN:VEVENT
 UID:fc168d953900d16d12b4f20b20622ba157cc6452@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Mars Tactics (PC (Microsoft Windows))
 DESCRIPTION:Developer: Takibi Games\n\nPublisher: Hooded Horse\n\nClassic t
@@ -2513,7 +2513,7 @@ DESCRIPTION:Developer: Takibi Games\n\nPublisher: Hooded Horse\n\nClassic t
 END:VEVENT
 BEGIN:VEVENT
 UID:fa90f5a52c657d8835655dfb1c9a606f67a15b2c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:The Bornless (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Cathedral Studios\n\nThe Bornless is an FP
@@ -2532,7 +2532,7 @@ DESCRIPTION:Developer/Publisher: Cathedral Studios\n\nThe Bornless is an FP
 END:VEVENT
 BEGIN:VEVENT
 UID:5f9da25abc1223b05e9f36c3677a78ff472fb33e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Thick as Thieves (PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: OtherSide Entertainment\n\nPublisher: Megabit Publis
@@ -2547,7 +2547,7 @@ DESCRIPTION:Developer: OtherSide Entertainment\n\nPublisher: Megabit Publis
 END:VEVENT
 BEGIN:VEVENT
 UID:5bf7dc8704e2ed03f9164bfe0c918d9ac6ed51d0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Becrowned (PC (Microsoft Windows))
 DESCRIPTION:Developer: 13th Street Studio\n\nPublisher: Top Hat Studios\n\n
@@ -2558,7 +2558,7 @@ DESCRIPTION:Developer: 13th Street Studio\n\nPublisher: Top Hat Studios\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:8f5b0588e6c017ee288756d7a9493dccccc85c9a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:DecaPolice (Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStatio
  n 5)
@@ -2571,7 +2571,7 @@ DESCRIPTION:Developer/Publisher: LEVEL-5\n\nDecaPolice\, a crime-suspense R
 END:VEVENT
 BEGIN:VEVENT
 UID:bc2550faa7f1eaddd74d27f7de400c4f86afda51@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Professor Layton and the New World of Steam (Nintendo Switch\, Nint
  endo Switch 2\, PC (Microsoft Windows)\, PlayStation 5)
@@ -2583,7 +2583,7 @@ DESCRIPTION:Developer/Publisher: LEVEL-5\n\nProfessor Layton and the New Wo
 END:VEVENT
 BEGIN:VEVENT
 UID:4569954477d4c156276d77a3ae9c6a4188c40491@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Beyond These Stars (PC (Microsoft Windows))
 DESCRIPTION:Developer: Balancing Monkey Games\n\nPublisher: Hooded Horse\n\
@@ -2594,7 +2594,7 @@ DESCRIPTION:Developer: Balancing Monkey Games\n\nPublisher: Hooded Horse\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:35baf60a71bbd771c982c7cae05c51b75d8bdc4c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Elden Ring: Shadow of the Erdtree (Nintendo Switch 2)
 DESCRIPTION:Developer: FromSoftware\n\nPublisher: Bandai Namco Entertainmen
@@ -2607,7 +2607,7 @@ DESCRIPTION:Developer: FromSoftware\n\nPublisher: Bandai Namco Entertainmen
 END:VEVENT
 BEGIN:VEVENT
 UID:68bf769bb4ff336e43fc877bb0ee5bb404f3eb1c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Breathedge 2 (PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: RedRuins Softworks\n\nPublisher: HypeTrain Digital\n
@@ -2618,7 +2618,7 @@ DESCRIPTION:Developer: RedRuins Softworks\n\nPublisher: HypeTrain Digital\n
 END:VEVENT
 BEGIN:VEVENT
 UID:8fc1485e207424d4d1aefb9e96e663de33dbda25@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Corpse Party II: Darkness Distortion (Nintendo Switch\, PC (Microso
  ft Windows)\, PlayStation 5)
@@ -2636,7 +2636,7 @@ DESCRIPTION:Developer: Team GrisGris\n\nPublisher: MAGES.\, Marvelous Europ
 END:VEVENT
 BEGIN:VEVENT
 UID:dddaf5abd8346fb255f8e46b9c3bdc74c12647f1@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Enginefall (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Red Rover Interactive\n\nEnginefall is a p
@@ -2648,7 +2648,7 @@ DESCRIPTION:Developer/Publisher: Red Rover Interactive\n\nEnginefall is a p
 END:VEVENT
 BEGIN:VEVENT
 UID:8c6a4e2cbcc7c45924d7d3d44ff82ad36ab57bb3@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Junxions (PC (Microsoft Windows))
 DESCRIPTION:Developer: CyberStorm\n\nPublisher: Hooded Horse\n\nBuild a tra
@@ -2660,7 +2660,7 @@ DESCRIPTION:Developer: CyberStorm\n\nPublisher: Hooded Horse\n\nBuild a tra
 END:VEVENT
 BEGIN:VEVENT
 UID:dac0e2ddd1262d4b2e72159f6e2d88ce4b4d262e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Gears of War: E-Day (PlayStation 5)
 DESCRIPTION:Developer: The Coalition\n\nPublisher: Xbox Game Studios\n\nExp
@@ -2675,7 +2675,7 @@ DESCRIPTION:Developer: The Coalition\n\nPublisher: Xbox Game Studios\n\nExp
 END:VEVENT
 BEGIN:VEVENT
 UID:45f838c24ee3b06ba9827f36d47ce3b90b069b25@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Truckful (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer/Publisher: MythicOwl\n\nDrive your pickup truck throu
@@ -2685,7 +2685,7 @@ DESCRIPTION:Developer/Publisher: MythicOwl\n\nDrive your pickup truck throu
 END:VEVENT
 BEGIN:VEVENT
 UID:08f0e974b718dadafe3ef6ef5ebeb5ca86c60172@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:King of Meat (Nintendo Switch)
 DESCRIPTION:Developer: Glowmade\n\nPublisher: Amazon Games\n\nKing of Meat 
@@ -2697,7 +2697,7 @@ DESCRIPTION:Developer: Glowmade\n\nPublisher: Amazon Games\n\nKing of Meat
 END:VEVENT
 BEGIN:VEVENT
 UID:55b99e0dd8db4d5c296c6b05a92b81f43b8771c0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Hela: Of Mice & Magic (Nintendo Switch 2\, PC (Microsoft Windows)\,
   PlayStation 5\, Xbox Series X|S)
@@ -2710,7 +2710,7 @@ DESCRIPTION:Developer: Windup Games\n\nPublisher: Knights Peak\n\nSee the w
 END:VEVENT
 BEGIN:VEVENT
 UID:518906fc56dd1e84d212fd0e2ffeb81569334b61@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Agni: Village of Calamity (PC (Microsoft Windows)\, PlayStation 5\,
   Xbox Series X|S)
@@ -2723,7 +2723,7 @@ DESCRIPTION:Developer: Separuh Interactive\n\nPublisher: Wired Productions\
 END:VEVENT
 BEGIN:VEVENT
 UID:d700cc3dbcbf193dba07e2c7e0c0cdad04bc1be3@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Fate Trigger (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer/Publisher: Saroasis Studios\n\nFate Trigger is a 3D A
@@ -2735,7 +2735,7 @@ DESCRIPTION:Developer/Publisher: Saroasis Studios\n\nFate Trigger is a 3D A
 END:VEVENT
 BEGIN:VEVENT
 UID:ba758205c2aa24e2140d5b4d984db4e7fddbe6b7@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Inazuma Eleven Re (Nintendo Switch\, Nintendo Switch 2\, PC (Micros
  oft Windows)\, PlayStation 5)
@@ -2745,7 +2745,7 @@ DESCRIPTION:Developer/Publisher: LEVEL-5\n\nThe story that started Inazuma
 END:VEVENT
 BEGIN:VEVENT
 UID:b00ed14e6f22d11a02502d8349d02e0792689fe8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:ArcheAge Chronicles (PC (Microsoft Windows)\, PlayStation 5\, Xbox 
  Series X|S)
@@ -2757,7 +2757,7 @@ DESCRIPTION:Developer: XLGAMES\n\nPublisher: Kakao Games\n\nExplore Auroria
 END:VEVENT
 BEGIN:VEVENT
 UID:e946d89040829a405cf2a15b371575b616e86d02@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Animal Use Protocol (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: THE BROTHERHOOD\n\nIn this first-person\, 
@@ -2769,7 +2769,7 @@ DESCRIPTION:Developer/Publisher: THE BROTHERHOOD\n\nIn this first-person\,
 END:VEVENT
 BEGIN:VEVENT
 UID:b56dbec4ff3c20efe8404e3579df5e3bf1c1ae75@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Into the Fire (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Starward Industries\n\nRace an exploding v
@@ -2780,7 +2780,7 @@ DESCRIPTION:Developer/Publisher: Starward Industries\n\nRace an exploding v
 END:VEVENT
 BEGIN:VEVENT
 UID:d041e867cf33de321c4e59b68cc8a847123998ab@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Haunted by Femboy (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Softboi Games\n\nIn this choice-based NSFW
@@ -2792,7 +2792,7 @@ DESCRIPTION:Developer/Publisher: Softboi Games\n\nIn this choice-based NSFW
 END:VEVENT
 BEGIN:VEVENT
 UID:fe18ea731787dff01305460b2ac56cfd8ce67836@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Blackfrost: The Long Dark 2 (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Hinterland Studio Inc.\n\nA year after the
@@ -2804,7 +2804,7 @@ DESCRIPTION:Developer/Publisher: Hinterland Studio Inc.\n\nA year after the
 END:VEVENT
 BEGIN:VEVENT
 UID:075a52360f322b94682e9cd2e5950a03fe2f6bc3@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Golf With Your Friends 2 (Nintendo Switch 2\, PC (Microsoft Windows
  )\, PlayStation 5\, Xbox Series X|S)
@@ -2816,7 +2816,7 @@ DESCRIPTION:Developer: Radical Forge\, Team17\n\nPublisher: Team17\n\nTee o
 END:VEVENT
 BEGIN:VEVENT
 UID:b6cdf54f200c530ce3e136c4a9dbfd3a5136b002@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Liminal Point (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series
   X|S)
@@ -2829,7 +2829,7 @@ DESCRIPTION:Developer/Publisher: HideWorks\n\nClassic Survival Horror. Draw
 END:VEVENT
 BEGIN:VEVENT
 UID:4cdb77e7e123aa573b7bb596c540c3e351fe4d74@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:RockBeasts (Nintendo Switch\, PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Lichthund\n\nPublisher: Team17\n\nLead a band of mis
@@ -2854,7 +2854,7 @@ DESCRIPTION:Developer: Lichthund\n\nPublisher: Team17\n\nLead a band of mis
 END:VEVENT
 BEGIN:VEVENT
 UID:d07fe11d6018a80dfa06d3760cde2bf7d3d1db0d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Edge of Memories (PC (Microsoft Windows)\, PlayStation 5\, Xbox Ser
  ies X|S)
@@ -2871,7 +2871,7 @@ DESCRIPTION:Developer: Midgar Studio\n\nPublisher: Nacon\n\nThe Corrosion\,
 END:VEVENT
 BEGIN:VEVENT
 UID:26fb69d30abf790fca02201ff36332dc45abdec6@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Clawsome (PC (Microsoft Windows))
 DESCRIPTION:Developer: Cometa Games\n\nPublisher: Whitethorn Games\n\nContr
@@ -2882,7 +2882,7 @@ DESCRIPTION:Developer: Cometa Games\n\nPublisher: Whitethorn Games\n\nContr
 END:VEVENT
 BEGIN:VEVENT
 UID:18413263ed666abda436b91a1561129ed37a5aa1@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Phase Zero (PC (Microsoft Windows))
 DESCRIPTION:Developer: Spina\n\nA grotesque illness binds the town of Flint
@@ -2893,7 +2893,7 @@ DESCRIPTION:Developer: Spina\n\nA grotesque illness binds the town of Flint
 END:VEVENT
 BEGIN:VEVENT
 UID:e9d0dc1507b1fb1349eaefba4a29faac9dd81a67@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Dark Mass (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S
  )
@@ -2904,7 +2904,7 @@ DESCRIPTION:Developer/Publisher: Path Games\n\nDark Mass is a fully underwa
 END:VEVENT
 BEGIN:VEVENT
 UID:cda58b31a5eb59e74921a3ec6cd8eafb9c89f403@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Starseeker: Astroneer Expeditions (Nintendo Switch\, Nintendo Switc
  h 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -2918,7 +2918,7 @@ DESCRIPTION:Developer: System Era Softworks\n\nPublisher: Devolver Digital\
 END:VEVENT
 BEGIN:VEVENT
 UID:4b091d927cb56fc7f4d1a7a3dd1c3ef232e99fb3@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:The Duskbloods (Nintendo Switch 2)
 DESCRIPTION:Developer: FromSoftware\n\nPublisher: FromSoftware\, Nintendo\n
@@ -2931,7 +2931,7 @@ DESCRIPTION:Developer: FromSoftware\n\nPublisher: FromSoftware\, Nintendo\n
 END:VEVENT
 BEGIN:VEVENT
 UID:509fa26fa27eb4b86a172591f6551b5c87cb9027@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Frostrail (PC (Microsoft Windows))
 DESCRIPTION:Developer: FakeFish\n\nPublisher: Shiro Unlimited\n\nThrough th
@@ -2943,7 +2943,7 @@ DESCRIPTION:Developer: FakeFish\n\nPublisher: Shiro Unlimited\n\nThrough th
 END:VEVENT
 BEGIN:VEVENT
 UID:ca1fd1ab6c3895ed329d24de9ea9ba2c0b99ee8d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Ikuma: The Frozen Compass (PC (Microsoft Windows)\, PlayStation 5\,
   Xbox Series X|S)
@@ -2956,7 +2956,7 @@ DESCRIPTION:Developer/Publisher: Mooneye Studios\n\nEmbark on a haunting jo
 END:VEVENT
 BEGIN:VEVENT
 UID:e039071e028b0ef73761f126492642ba7c872189@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Dreadmoor (PC (Microsoft Windows))
 DESCRIPTION:Developer: Dream Dock\n\nPublisher: Digital Vortex Entertainmen
@@ -2967,7 +2967,7 @@ DESCRIPTION:Developer: Dream Dock\n\nPublisher: Digital Vortex Entertainmen
 END:VEVENT
 BEGIN:VEVENT
 UID:7b502feaf2037edce95310a2f497cc4d6c11187f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Chronicles: Medieval (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Raw Power Games\n\nChronicles: Medieval le
@@ -2978,7 +2978,7 @@ DESCRIPTION:Developer/Publisher: Raw Power Games\n\nChronicles: Medieval le
 END:VEVENT
 BEGIN:VEVENT
 UID:048984eafca92638d962fd1ad0f738aea0e31abc@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Blighted (Nintendo Switch 2\, PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Drinkbox Studios\n\nBattle your way throug
@@ -2989,7 +2989,7 @@ DESCRIPTION:Developer/Publisher: Drinkbox Studios\n\nBattle your way throug
 END:VEVENT
 BEGIN:VEVENT
 UID:65c93540b49e5aec171ffa41d87b2c52cb35c3e7@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Mudang: Two Hearts (PC (Microsoft Windows)\, PlayStation 5\, Xbox S
  eries X|S)
@@ -3000,7 +3000,7 @@ DESCRIPTION:Developer/Publisher: EVR Studio\n\nMUDANG: Two Hearts is a narr
 END:VEVENT
 BEGIN:VEVENT
 UID:6d7ce4ccac5537680b3ae9a5a655da55af3d2571@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:At Fate's End (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series
   X|S)
@@ -3013,7 +3013,7 @@ DESCRIPTION:Developer/Publisher: Thunder Lotus\n\nAt Fate’s End is an actio
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1d07208c9e64ea5a09ecf92e3f51175f509164@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Moomintroll: Winter's Warmth (PlayStation 5)
 DESCRIPTION:Developer: Hyper Games\n\nPublisher: Hyper Games\, Kakehashi Ga
@@ -3024,7 +3024,7 @@ DESCRIPTION:Developer: Hyper Games\n\nPublisher: Hyper Games\, Kakehashi Ga
 END:VEVENT
 BEGIN:VEVENT
 UID:f153bfc07a23cfe53624a29337bf1c0c83291409@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Forza Horizon 6 (PlayStation 5)
 DESCRIPTION:Developer: Playground Games\n\nPublisher: Xbox Game Studios\n\n
@@ -3039,7 +3039,7 @@ DESCRIPTION:Developer: Playground Games\n\nPublisher: Xbox Game Studios\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:4f928d7d89c3723b01ada6b5da76b728102c6f8f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Zero Parades: For Dead Spies (PlayStation 5)
 DESCRIPTION:Developer/Publisher: ZA/UM\n\nFrom ZA/UM comes ZERO PARADES: Fo
@@ -3051,7 +3051,7 @@ DESCRIPTION:Developer/Publisher: ZA/UM\n\nFrom ZA/UM comes ZERO PARADES: Fo
 END:VEVENT
 BEGIN:VEVENT
 UID:50151666abbefd2c3e300c78b02750b98d1571ed@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Wildekin (PC (Microsoft Windows)\, Xbox Series X|S)
 DESCRIPTION:Developer: Cute Newt\n\nPublisher: Chucklefish Games\n\nWildeki
@@ -3061,7 +3061,7 @@ DESCRIPTION:Developer: Cute Newt\n\nPublisher: Chucklefish Games\n\nWildeki
 END:VEVENT
 BEGIN:VEVENT
 UID:c571df35d51bfdc8e13c02303a35d500a0ddb6d7@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Project Evilbane (PC (Microsoft Windows))
 DESCRIPTION:Developer: Netmarble Monster\n\nPublisher: Netmarble\n\nProject
@@ -3073,7 +3073,7 @@ DESCRIPTION:Developer: Netmarble Monster\n\nPublisher: Netmarble\n\nProject
 END:VEVENT
 BEGIN:VEVENT
 UID:56cfb718a3d95914b6234a65ba1926ee965fecda@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:The Hearth and Harbour (PC (Microsoft Windows))
 DESCRIPTION:Developer: Saltstone Studios\n\nPublisher: Fellow Traveller\n\n
@@ -3085,7 +3085,7 @@ DESCRIPTION:Developer: Saltstone Studios\n\nPublisher: Fellow Traveller\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:863987c1f2f4999307f54ea29ffd840eff412b8c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Dynasty Warriors 3: Complete Edition Remastered (Nintendo Switch 2\
  , PC (Microsoft Windows)\, Xbox Series X|S)
@@ -3099,7 +3099,7 @@ DESCRIPTION:Developer: Omega Force\n\nPublisher: Koei Tecmo\n\nA striking m
 END:VEVENT
 BEGIN:VEVENT
 UID:c0eecd968abe3ac8a7110be0b511a7beefd5ab1b@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Chronoscript: The Endless End (PC (Microsoft Windows)\, PlayStation
   5)
@@ -3111,7 +3111,7 @@ DESCRIPTION:Developer: Deskworks\n\nPublisher: Shueisha Games\n\nChronoscri
 END:VEVENT
 BEGIN:VEVENT
 UID:9c05bf8f75aa87ea7d3e3d374c9cf69c473537d4@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Petit Planet (PC (Microsoft Windows))
 DESCRIPTION:Developer: miHoYo\n\nPublisher: Cognosphere\, HoYoverse\n\nPeti
@@ -3122,7 +3122,7 @@ DESCRIPTION:Developer: miHoYo\n\nPublisher: Cognosphere\, HoYoverse\n\nPeti
 END:VEVENT
 BEGIN:VEVENT
 UID:40338263e8f523c5e34f1ff1f380c7f425442509@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Bellum (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Astarte Industries\n\nBellum is the next e
@@ -3136,7 +3136,7 @@ DESCRIPTION:Developer/Publisher: Astarte Industries\n\nBellum is the next e
 END:VEVENT
 BEGIN:VEVENT
 UID:3c70df716b0430fc50984b6fdeb5ce7f95b9f7f9@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Skinwalker: First Blood (PC (Microsoft Windows))
 DESCRIPTION:Developer: SISMO Games\n\nPublisher: Team17\n\nSkinwalker is a 
@@ -3148,7 +3148,7 @@ DESCRIPTION:Developer: SISMO Games\n\nPublisher: Team17\n\nSkinwalker is a
 END:VEVENT
 BEGIN:VEVENT
 UID:8bbbc830c5403c3041cba9f37d2c692acd811abf@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Two Point Museum: Zooseum (Nintendo Switch 2)
 DESCRIPTION:Developer: Two Point Studios\n\nPublisher: Sega\n\nNow hiring f
@@ -3158,7 +3158,7 @@ DESCRIPTION:Developer: Two Point Studios\n\nPublisher: Sega\n\nNow hiring f
 END:VEVENT
 BEGIN:VEVENT
 UID:2ffd50a4dacb666ec7de5bcfaad51697bbbf0dde@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Virtue and a Sledgehammer (PC (Microsoft Windows))
 DESCRIPTION:Developer: Deconstructeam\, Selkie Harbour\n\nPublisher: Devolv
@@ -3169,7 +3169,7 @@ DESCRIPTION:Developer: Deconstructeam\, Selkie Harbour\n\nPublisher: Devolv
 END:VEVENT
 BEGIN:VEVENT
 UID:2ea5695ef143cfc6464024454b86dac8c961b82a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Decrepit (PC (Microsoft Windows))
 DESCRIPTION:Decrepit is a first-person action game with souls-like combat w
@@ -3179,7 +3179,7 @@ DESCRIPTION:Decrepit is a first-person action game with souls-like combat w
 END:VEVENT
 BEGIN:VEVENT
 UID:4d698d8cd23c0d5ea6817385a66ee1fe6a34a91f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Hollow Knight: Silksong - Sea of Sorrow (Nintendo Switch\, Nintendo
   Switch 2\, PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -3190,7 +3190,7 @@ DESCRIPTION:Developer/Publisher: Team Cherry\n\nVoyage across and beneath t
 END:VEVENT
 BEGIN:VEVENT
 UID:95863baa20416cca04354d27fcffdd8b6454955c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Jigrift (PC (Microsoft Windows))
 DESCRIPTION:Developer: Empty Castle Games\n\nPublisher: Whitethorn Games\n\
@@ -3200,7 +3200,7 @@ DESCRIPTION:Developer: Empty Castle Games\n\nPublisher: Whitethorn Games\n\
 END:VEVENT
 BEGIN:VEVENT
 UID:ad09af29779a215754831d38649811d9458e5aca@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Mechborn (Nintendo Switch\, Nintendo Switch 2\, PC (Microsoft Windo
  ws)\, PlayStation 5\, Xbox Series X|S)
@@ -3213,7 +3213,7 @@ DESCRIPTION:Developer: Turtle Juice\n\nPublisher: Curve Games\n\nProtect Ea
 END:VEVENT
 BEGIN:VEVENT
 UID:2fba9be50ae89bdac7996ae2a864447e485fbdfe@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Tekken 8: Roger Jr. (PC (Microsoft Windows)\, PlayStation 5\, Xbox 
  Series X|S)
@@ -3222,7 +3222,7 @@ DESCRIPTION:Developer: Bandai Namco Studios\n\nPublisher: Bandai Namco Ente
 END:VEVENT
 BEGIN:VEVENT
 UID:c32e428f578969dd04d99451f0a854d34c2efe87@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Reanimal: The Expanded World - Chapter 2 (Nintendo Switch 2\, PC (M
  icrosoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -3231,7 +3231,7 @@ DESCRIPTION:Developer: Tarsier Studios\n\nPublisher: THQ Nordic\n\nhttps://
 END:VEVENT
 BEGIN:VEVENT
 UID:50b523d6cc7229cc26a8bca9a0a9fb68e87cbac8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Vaunted (PC (Microsoft Windows))
 DESCRIPTION:Publisher: Hooded Horse\n\nThe score of a lifetime hangs in the
@@ -3242,7 +3242,7 @@ DESCRIPTION:Publisher: Hooded Horse\n\nThe score of a lifetime hangs in the
 END:VEVENT
 BEGIN:VEVENT
 UID:c3a6dd6cc407ad0b5d57ce08b17777512f4ca977@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Stellaris: Willpower (PC (Microsoft Windows))
 DESCRIPTION:Developer: Abrakam\, Paradox Development Studio\n\nPublisher: P
@@ -3253,7 +3253,7 @@ DESCRIPTION:Developer: Abrakam\, Paradox Development Studio\n\nPublisher: P
 END:VEVENT
 BEGIN:VEVENT
 UID:ce4b62c4e4c6ded97ab38cfb8051d5001c7585c1@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Shinovi Nexus: Senran Kagura (PC (Microsoft Windows))
 DESCRIPTION:Developer: Honey Parade Games\n\nPublisher: Marvelous\n\nhttps:
@@ -3261,7 +3261,7 @@ DESCRIPTION:Developer: Honey Parade Games\n\nPublisher: Marvelous\n\nhttps:
 END:VEVENT
 BEGIN:VEVENT
 UID:55ac140d1efcc9925eb5c768ec980dd3e772a6f6@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Saw: Genesis (PC (Microsoft Windows))
 DESCRIPTION:Developer: Anshar Studios\, Broken Mirror Games\n\nPublisher: B
@@ -3273,7 +3273,7 @@ DESCRIPTION:Developer: Anshar Studios\, Broken Mirror Games\n\nPublisher: B
 END:VEVENT
 BEGIN:VEVENT
 UID:30d40ed62ef17fe31e2de412fb12db48a032f2c6@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:The Wolf Among Us Remastered (PC (Microsoft Windows)\, PlayStation 
  5\, Xbox Series X|S)
@@ -3283,7 +3283,7 @@ DESCRIPTION:Developer/Publisher: Telltale Games\n\nA dark detective thrille
 END:VEVENT
 BEGIN:VEVENT
 UID:2e9f28295e78a6b5141c46226db05140242a9e6f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Street Fighter 6: Year 4 - Arjun (Nintendo Switch 2\, PC (Microsoft
   Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -3292,7 +3292,7 @@ DESCRIPTION:Publisher: Capcom\n\nhttps://www.igdb.com/games/street-fighter-
 END:VEVENT
 BEGIN:VEVENT
 UID:094be810f9565a584bd5539df36a33d7801e30d1@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Burn-9 (PC (Microsoft Windows))
 DESCRIPTION:Developer: 14 Hours Productions\n\nPublisher: Fellow Traveller\
@@ -3304,7 +3304,7 @@ DESCRIPTION:Developer: 14 Hours Productions\n\nPublisher: Fellow Traveller\
 END:VEVENT
 BEGIN:VEVENT
 UID:0d03a7a7b3bb056a93fb6d1fc4f20de2cb7d6a54@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:The Legend of Zelda: Ocarina of Time (Nintendo Switch 2)
 DESCRIPTION:Publisher: Nintendo\n\nA remake of the 1998 Nintendo 64 title f
@@ -3313,7 +3313,7 @@ DESCRIPTION:Publisher: Nintendo\n\nA remake of the 1998 Nintendo 64 title f
 END:VEVENT
 BEGIN:VEVENT
 UID:cb5e0bd5e68249948e6aad0ea9dce9f6b0ef8cd6@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Nobunaga's Ambition: Hishou (Nintendo Switch\, Nintendo Switch 2\, 
  PC (Microsoft Windows)\, PlayStation 5)
@@ -3322,7 +3322,7 @@ DESCRIPTION:Developer/Publisher: Koei Tecmo Games\n\nhttps://www.igdb.com/g
 END:VEVENT
 BEGIN:VEVENT
 UID:ffa5abc59b18c2e0a2869713742366c3c805ab58@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Pokémon Pokopia: Part 2 (Nintendo Switch 2)
 DESCRIPTION:Developer: Game Freak\, Omega Force\n\nPublisher: Nintendo\, Th
@@ -3330,7 +3330,7 @@ DESCRIPTION:Developer: Game Freak\, Omega Force\n\nPublisher: Nintendo\, Th
 END:VEVENT
 BEGIN:VEVENT
 UID:f2fb21a7b081fe820074b44f69695fa5d548faf2@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20261231
 SUMMARY:Probably Stolen (PC (Microsoft Windows))
 DESCRIPTION:Developer: Questing Goose Studio\n\nPublisher: tinyBuild\n\nPro
@@ -3342,7 +3342,7 @@ DESCRIPTION:Developer: Questing Goose Studio\n\nPublisher: tinyBuild\n\nPro
 END:VEVENT
 BEGIN:VEVENT
 UID:4036ae777d8f16b1979a3660b48a1fd659b92c7d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270101
 SUMMARY:Final Fantasy XIV: Evercold (Nintendo Switch 2\, PC (Microsoft Wind
  ows)\, PlayStation 5\, Xbox Series X|S)
@@ -3353,7 +3353,7 @@ DESCRIPTION:Developer: Square Enix Creative Studio III\n\nPublisher: Square
 END:VEVENT
 BEGIN:VEVENT
 UID:2a9f5378cb7dd8d3eaa3c890a8f096c42510fcc8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270107
 SUMMARY:Armatus (Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStation 5
  \, Xbox Series X|S)
@@ -3366,7 +3366,7 @@ DESCRIPTION:Developer: Counterplay Games\n\nPublisher: Fictions\n\nARMATUS
 END:VEVENT
 BEGIN:VEVENT
 UID:999088b3334acef15b665fe98383d6d590ef1215@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270115
 SUMMARY:Ananta (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer: Naked Rain\n\nPublisher: NetEase Games\n\nTake on th
@@ -3380,7 +3380,7 @@ DESCRIPTION:Developer: Naked Rain\n\nPublisher: NetEase Games\n\nTake on th
 END:VEVENT
 BEGIN:VEVENT
 UID:c1e44a0010cf71f3d1ef0ccabf1f79221fe26456@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270115
 SUMMARY:Stranger Than Heaven (PC (Microsoft Windows)\, PlayStation 5\, Xbox
   Series X|S)
@@ -3394,7 +3394,7 @@ DESCRIPTION:Developer: Ryu Ga Gotoku Studio\n\nPublisher: Sega\n\nStranger
 END:VEVENT
 BEGIN:VEVENT
 UID:f83f522258876f211aba8758c8b67bd0a0bebdda@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270115
 SUMMARY:TankRat (PC (Microsoft Windows)\, PlayStation 5)
 DESCRIPTION:Developer: Alpha Channel\n\nPublisher: Kepler Interactive\n\nA 
@@ -3406,7 +3406,7 @@ DESCRIPTION:Developer: Alpha Channel\n\nPublisher: Kepler Interactive\n\nA
 END:VEVENT
 BEGIN:VEVENT
 UID:984c6c0e3bc4215613bc2c0b19703aa2c4031dff@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270115
 SUMMARY:Stranger Than Heaven: Collector's Edition (PlayStation 5\, Xbox Ser
  ies X|S)
@@ -3419,7 +3419,7 @@ DESCRIPTION:Developer: Ryu Ga Gotoku Studio\n\nPublisher: Sega\n\nStranger
 END:VEVENT
 BEGIN:VEVENT
 UID:81e88f7fdbf8de365f56631c7e1d55c7bcde3140@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270201
 SUMMARY:Demi and the Fractured Dream (Nintendo Switch\, Nintendo Switch 2\,
   PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -3432,7 +3432,7 @@ DESCRIPTION:Developer: Yarn Owl Studios\n\nPublisher: Annapurna Interactive
 END:VEVENT
 BEGIN:VEVENT
 UID:0a8b7b98e75e69fefb9ee90f7e8357d8fcfbc41e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270201
 SUMMARY:Metro 2039 (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|
  S)
@@ -3458,7 +3458,7 @@ DESCRIPTION:Developer: 4A Games\n\nPublisher: Deep Silver\n\nMETRO 2039 is
 END:VEVENT
 BEGIN:VEVENT
 UID:e9d7e38c4b1273fb1e1aee3522ae7505552ac87c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270212
 SUMMARY:Tomb Raider: Legacy of Atlantis (Nintendo Switch 2\, PC (Microsoft 
  Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -3470,7 +3470,7 @@ DESCRIPTION:Developer: Crystal Dynamics\, Flying Wild Hog\n\nPublisher: Ama
 END:VEVENT
 BEGIN:VEVENT
 UID:6bf6d420ffcf4906e3d5269faf4f3b0951e8a32f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270216
 SUMMARY:God of War Laufey (PlayStation 5)
 DESCRIPTION:Developer: SIE Santa Monica Studio\n\nPublisher: Sony Interacti
@@ -3485,7 +3485,7 @@ DESCRIPTION:Developer: SIE Santa Monica Studio\n\nPublisher: Sony Interacti
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe6d87da893334590164b1eaae06d9634bceb93@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270218
 SUMMARY:Fable (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Playground Games\n\nPublisher: Xbox Game Studios\n\n
@@ -3495,7 +3495,7 @@ DESCRIPTION:Developer: Playground Games\n\nPublisher: Xbox Game Studios\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:80d631dc510dd72a0184b2b6b9fd3294fb9ae4b0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270218
 SUMMARY:Persona 4 Revival (PC (Microsoft Windows)\, PlayStation 5\, Xbox Se
  ries X|S)
@@ -3513,7 +3513,7 @@ DESCRIPTION:Developer: P Studio\n\nPublisher: Atlus\, Sega\n\nWho’s on Air?
 END:VEVENT
 BEGIN:VEVENT
 UID:dd3beea8c7071d0a167e344e8ab1fb65f082f2b5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270218
 SUMMARY:Persona 4 Revival: Limited Box (PlayStation 5)
 DESCRIPTION:Developer: P Studio\n\nPublisher: Atlus\, Sega\n\nContains a Ma
@@ -3523,7 +3523,7 @@ DESCRIPTION:Developer: P Studio\n\nPublisher: Atlus\, Sega\n\nContains a Ma
 END:VEVENT
 BEGIN:VEVENT
 UID:cf5fc14740f426a29575bd929d86b618821175ca@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270218
 SUMMARY:Persona 4 Revival: Digital Deluxe Edition (PC (Microsoft Windows)\,
   Xbox Series X|S)
@@ -3532,7 +3532,7 @@ DESCRIPTION:Developer: P Studio\n\nPublisher: Atlus\, Sega\n\nhttps://www.i
 END:VEVENT
 BEGIN:VEVENT
 UID:f5e0f0059371adc9703127da959b38589e927965@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270218
 SUMMARY:Persona 4 Revival: Digital Premium Edition (PC (Microsoft Windows)\
  , PlayStation 5\, Xbox Series X|S)
@@ -3545,7 +3545,7 @@ DESCRIPTION:Developer: P Studio\n\nPublisher: Sega\n\nPersona 4 Revival: P3
 END:VEVENT
 BEGIN:VEVENT
 UID:f0b428a84d20d08e1b3ed2e1deefed98ba40429b@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270218
 SUMMARY:Fable: Premium Edition (PC (Microsoft Windows)\, PlayStation 5\, Xb
  ox Series X|S)
@@ -3558,7 +3558,7 @@ DESCRIPTION:Developer: Playground Games\n\nPublisher: Xbox Game Studios\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:ce8eea8bfc8aec22da945513268722899fd86e3a@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270223
 SUMMARY:Fable (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Playground Games\n\nPublisher: Xbox Game Studios\n\n
@@ -3568,7 +3568,7 @@ DESCRIPTION:Developer: Playground Games\n\nPublisher: Xbox Game Studios\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:211439a86d43fadba1c28278e9c6bcdd85117fee@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270301
 SUMMARY:Join Us (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer/Publisher: Wolf Haus Games\n\nLead a cult and prepare
@@ -3578,7 +3578,7 @@ DESCRIPTION:Developer/Publisher: Wolf Haus Games\n\nLead a cult and prepare
 END:VEVENT
 BEGIN:VEVENT
 UID:ca8b3fcb345a3135aa28bb127c3ddd019baa5959@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270301
 SUMMARY:Cassette Beasts 2002 (Nintendo Switch 2\, PC (Microsoft Windows)\, 
  PlayStation 5\, Xbox Series X|S)
@@ -3592,7 +3592,7 @@ DESCRIPTION:Developer: Bytten Studio\n\nPublisher: Raw Fury\n\nJump back in
 END:VEVENT
 BEGIN:VEVENT
 UID:540540ca12af92318db6150fde731cfe4542e7b0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270311
 SUMMARY:Road Kings (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|
  S)
@@ -3605,7 +3605,7 @@ DESCRIPTION:Developer: Saber Interactive\n\nPublisher: Focus Entertainment\
 END:VEVENT
 BEGIN:VEVENT
 UID:b7d66eac4d7f2a6eb4d508a68980dc2a9a2f2306@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:The Legend of Khiimori (PlayStation 5)
 DESCRIPTION:Developer: Aesir Interactive\n\nPublisher: Mindscape\n\nThe Leg
@@ -3616,7 +3616,7 @@ DESCRIPTION:Developer: Aesir Interactive\n\nPublisher: Mindscape\n\nThe Leg
 END:VEVENT
 BEGIN:VEVENT
 UID:376ddeace349d67e90edf9b0fda4289acdabcef9@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Lords of the Fallen II (Nintendo Switch 2\, PC (Microsoft Windows)\
  , PlayStation 5\, Xbox Series X|S)
@@ -3628,7 +3628,7 @@ DESCRIPTION:Developer/Publisher: CI Games\n\nLords of the Fallen 2\, the hi
 END:VEVENT
 BEGIN:VEVENT
 UID:d313b3c8c131aa3a4cc6a146ea89bd45fae4b38e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Game of Thrones: War for Westeros (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: PlaySide\n\nClassic real-time strategy in 
@@ -3640,7 +3640,7 @@ DESCRIPTION:Developer/Publisher: PlaySide\n\nClassic real-time strategy in
 END:VEVENT
 BEGIN:VEVENT
 UID:463ba6f0e070556a39369e708421d841a2a3324f@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Out of Words (Nintendo Switch 2\, PC (Microsoft Windows)\, PlayStat
  ion 5\, Xbox Series X|S)
@@ -3653,7 +3653,7 @@ DESCRIPTION:Developer: Kong Orange\n\nPublisher: Epic Games Publishing\n\nF
 END:VEVENT
 BEGIN:VEVENT
 UID:3cd2f80a6a06bbd530d9d453e4b34b317d346a83@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Shutter Story (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Frostwood Interactive\n\nYour friend is co
@@ -3663,7 +3663,7 @@ DESCRIPTION:Developer/Publisher: Frostwood Interactive\n\nYour friend is co
 END:VEVENT
 BEGIN:VEVENT
 UID:84325e48afe447f6a173bf98c269a669a268942b@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Danganronpa 2x2 (Nintendo Switch\, Nintendo Switch 2\, PC (Microsof
  t Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -3678,7 +3678,7 @@ DESCRIPTION:Developer: Gemdrops\, Inc.\n\nPublisher: Spike Chunsoft\n\nA ne
 END:VEVENT
 BEGIN:VEVENT
 UID:5c87a410bf2f23230052c3b5581f468940502311@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Perceptum (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S
  )
@@ -3691,7 +3691,7 @@ DESCRIPTION:Developer: Duck Reaction\n\nPublisher: Duck Reaction\, Perp Gam
 END:VEVENT
 BEGIN:VEVENT
 UID:5671368008a75f8a4a9ba66d6f6c225e1b753559@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Tekken 8: Yujiro Hanma (PC (Microsoft Windows)\, PlayStation 5\, Xb
  ox Series X|S)
@@ -3700,7 +3700,7 @@ DESCRIPTION:Developer: Bandai Namco Studios\n\nPublisher: Bandai Namco Ente
 END:VEVENT
 BEGIN:VEVENT
 UID:2abd40c9cfb4e2466194d6a9dfbb0d7ac1748d83@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Tekken 8: Subsea Lockdown (PC (Microsoft Windows)\, PlayStation 5\,
   Xbox Series X|S)
@@ -3709,7 +3709,7 @@ DESCRIPTION:Developer: Bandai Namco Studios\n\nPublisher: Bandai Namco Ente
 END:VEVENT
 BEGIN:VEVENT
 UID:386630a5d4850f1ede4cce725347096563f0b192@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Reanimal: The Expanded World - Chapter 3 (Nintendo Switch 2\, PC (M
  icrosoft Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -3718,7 +3718,7 @@ DESCRIPTION:Developer: Tarsier Studios\n\nPublisher: THQ Nordic\n\nhttps://
 END:VEVENT
 BEGIN:VEVENT
 UID:5ab34ae30fdde6578342e412d6f0ab1c54a1db14@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:SnowRunner: Season 20 (PC (Microsoft Windows)\, PlayStation 5\, Xbo
  x Series X|S)
@@ -3729,7 +3729,7 @@ DESCRIPTION:Developer: Saber Interactive\n\nPublisher: Focus Entertainment\
 END:VEVENT
 BEGIN:VEVENT
 UID:6ee8629ed1f48303e482b7598b72236fb48027bf@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Clutch (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Maverick Games\n\nPublisher: Focus Entertainment\n\n
@@ -3740,7 +3740,7 @@ DESCRIPTION:Developer: Maverick Games\n\nPublisher: Focus Entertainment\n\n
 END:VEVENT
 BEGIN:VEVENT
 UID:a1762de4063d0fd3b134ceb9b03c7288c28e2aa5@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Street Fighter 6: Year 4 - Tifa (Nintendo Switch 2\, PC (Microsoft 
  Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -3749,7 +3749,7 @@ DESCRIPTION:Publisher: Capcom\n\nhttps://www.igdb.com/games/street-fighter-
 END:VEVENT
 BEGIN:VEVENT
 UID:ae3bcdcfc0e193ad7aab84bfe6d85fdaa4953da8@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Wo Long 2: Wings of Ember (Nintendo Switch 2\, PC (Microsoft Window
  s)\, PlayStation 5\, Xbox Series X|S)
@@ -3761,7 +3761,7 @@ DESCRIPTION:Developer: Team NINJA\n\nPublisher: Koei Tecmo\n\nBorn from war
 END:VEVENT
 BEGIN:VEVENT
 UID:eaa8348fd842405316793759f7c3b826e9f5a8ae@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Muramasa: Revenant Blades (Nintendo Switch\, Nintendo Switch 2\, PC
   (Microsoft Windows)\, PlayStation 5)
@@ -3774,7 +3774,7 @@ DESCRIPTION:Developer: Vanillaware\n\nPublisher: Marvelous\, Marvelous USA
 END:VEVENT
 BEGIN:VEVENT
 UID:6529228c39bffc0e247872f80efe42ff8602e927@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270331
 SUMMARY:Elta: Defy All Gods (PC (Microsoft Windows)\, PlayStation 5\, Xbox 
  Series X|S)
@@ -3786,7 +3786,7 @@ DESCRIPTION:Developer: Afterburner Studios\n\nPublisher: Focus Entertainmen
 END:VEVENT
 BEGIN:VEVENT
 UID:dea98a9d8f9f5d17edc482b4163f2a9a6b7c3c1d@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270407
 SUMMARY:Exodus (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer: Archetype Entertainment\n\nPublisher: Wizards of the
@@ -3798,7 +3798,7 @@ DESCRIPTION:Developer: Archetype Entertainment\n\nPublisher: Wizards of the
 END:VEVENT
 BEGIN:VEVENT
 UID:a02deb8373d1f1871f4d495633fdce76e67a7656@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270427
 SUMMARY:Mariachi Legends (Nintendo Switch\, PC (Microsoft Windows)\, PlaySt
  ation 5\, Xbox Series X|S)
@@ -3811,7 +3811,7 @@ DESCRIPTION:Developer: Halberd Studios\n\nPublisher: Freedom Games\n\nMaria
 END:VEVENT
 BEGIN:VEVENT
 UID:6b445cbbf72721eeb897489074b3a22873692ca0@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270427
 SUMMARY:Pony Island 2: Panda Circus (PC (Microsoft Windows))
 DESCRIPTION:Developer/Publisher: Daniel Mullins Games\n\nPony Island 2: Pan
@@ -3822,7 +3822,7 @@ DESCRIPTION:Developer/Publisher: Daniel Mullins Games\n\nPony Island 2: Pan
 END:VEVENT
 BEGIN:VEVENT
 UID:19171fa9733fc2c311fee4aa99d4a17e467718cb@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270531
 SUMMARY:SnowRunner: Season 20 (Nintendo Switch 2)
 DESCRIPTION:Developer: Saber Interactive\n\nPublisher: Focus Entertainment\
@@ -3832,7 +3832,7 @@ DESCRIPTION:Developer: Saber Interactive\n\nPublisher: Focus Entertainment\
 END:VEVENT
 BEGIN:VEVENT
 UID:cd8d9d1c2486f7f36bf681c751c2013728860940@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270630
 SUMMARY:Turok: Origins (Nintendo Switch 2\, PC (Microsoft Windows)\, PlaySt
  ation 5\, Xbox Series X|S)
@@ -3843,7 +3843,7 @@ DESCRIPTION:Developer/Publisher: Saber Interactive\n\nPlay as the legendary
 END:VEVENT
 BEGIN:VEVENT
 UID:63d218eb8487c4c68de49d01241c5da20616d319@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270630
 SUMMARY:The Expanse: Osiris Reborn (PC (Microsoft Windows)\, PlayStation 5\
  , Xbox Series X|S)
@@ -3855,7 +3855,7 @@ DESCRIPTION:Developer/Publisher: Owlcat Games\n\nThe Expanse: Osiris Reborn
 END:VEVENT
 BEGIN:VEVENT
 UID:044f5455552df965fe2efbbd226ac38908f1209e@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270630
 SUMMARY:Alien Deathstorm (PC (Microsoft Windows)\, PlayStation 5\, Xbox Ser
  ies X|S)
@@ -3866,7 +3866,7 @@ DESCRIPTION:Developer/Publisher: Rebellion Developments\n\nExplore a devast
 END:VEVENT
 BEGIN:VEVENT
 UID:2d26ea01c6309e85d5ad0ed30245ccb08b50cb30@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270630
 SUMMARY:Street Fighter 6: Year 4 - Bosch (Nintendo Switch 2\, PC (Microsoft
   Windows)\, PlayStation 5\, Xbox Series X|S)
@@ -3875,7 +3875,7 @@ DESCRIPTION:Publisher: Capcom\n\nhttps://www.igdb.com/games/street-fighter-
 END:VEVENT
 BEGIN:VEVENT
 UID:bbcbdc01aaef4caff07c1be238969bdc3838d358@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270630
 SUMMARY:Final Fantasy VII Revelation (Nintendo Switch 2\, PC (Microsoft Win
  dows)\, PlayStation 5\, Xbox Series X|S)
@@ -3894,7 +3894,7 @@ DESCRIPTION:Developer: Square Enix Creative Studio I\n\nPublisher: Square E
 END:VEVENT
 BEGIN:VEVENT
 UID:90199b90c10a963cda822102e9d24a8c2b780a65@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270630
 SUMMARY:Spyro: A Realm Beyond (Nintendo Switch 2\, PC (Microsoft Windows)\,
   PlayStation 5\, Xbox Series X|S)
@@ -3906,7 +3906,7 @@ DESCRIPTION:Developer: Toys for Bob\n\nPublisher: Activision\n\nTake flight
 END:VEVENT
 BEGIN:VEVENT
 UID:cf19508dd538c52a328b5d6a640c950383ca5a3c@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270930
 SUMMARY:Spine (PC (Microsoft Windows)\, PlayStation 5\, Xbox Series X|S)
 DESCRIPTION:Developer/Publisher: Nekki\n\nExperience Gun Fu like never befo
@@ -3920,7 +3920,7 @@ DESCRIPTION:Developer/Publisher: Nekki\n\nExperience Gun Fu like never befo
 END:VEVENT
 BEGIN:VEVENT
 UID:c0ac0baa9fd612a27bedbf2e69df7ce24403f0eb@overworld-igdb-sync
-DTSTAMP:20260829T165929Z
+DTSTAMP:20260830T171340Z
 DTSTART;VALUE=DATE:20270930
 SUMMARY:Hunter: The Reckoning - Deathwish (PC (Microsoft Windows)\, PlaySta
  tion 5\, Xbox Series X|S)
